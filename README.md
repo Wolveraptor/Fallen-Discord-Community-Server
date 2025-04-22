@@ -1,8 +1,8 @@
-# Discord Community Server
+# Fallen Discord Community Server
 Fallen Discord community server GitHub repository.
 
 ## About this Repository
-This is my repository for storing information and configurations for the Fallen Discord community server.
+This is Fallen's repository for storing information and configurations for the Fallen Discord community server.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
