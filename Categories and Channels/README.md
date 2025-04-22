@@ -155,6 +155,8 @@ Example:
     * T: ashes-official
         * Channel Topic: N/A
         * Configured to relay messages from `Ashes of Creation #alpha-two-news`.
+    * V: Group 1
+        * Voice channel for a group.
     * V: Group 2
         * Voice channel for a group.
     * V: Group 3
