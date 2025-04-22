@@ -1,8 +1,8 @@
 # Embedded Messages
-Discord community server embedded messages.
+Fallen Discord community server embedded messages.
 
 ## About Embedded Messages
-This README.md serves as documentation and changelog for my Discord community server embedded messages.
+This README.md serves as documentation and changelog for the Fallen Discord community server embedded messages.
 
 ![alttext](/Images/Server%20-%20Icon%20-%20Color%20Balance%20X2%20-%20Midtone%20Red%20-%20512x512%20-%20v3.png)
 
