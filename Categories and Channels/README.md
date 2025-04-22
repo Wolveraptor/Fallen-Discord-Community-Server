@@ -21,7 +21,7 @@ Example:
     * T: Text Channel (Text channel with the name “Text Channel”.)
     * V: Voice Channel (Voice channel with the name “Voice Channel”.)
 
-### 04/21/25 - 9:33 PM EST
+### 04/22/25 - 12:09 AM EST
 * C: <-------{Text Channels}------>
     * T: welcome-rules
         * Channel Topic: N/A
@@ -116,12 +116,16 @@ Example:
     * V: AFK
         * Voice channel for AFK.
 * C: <-----{Private Chambers}----->
+    * T: king-thread
+        * Channel Topic: N/A
+        * Used as a private text channel for the `King` role.
     * T: council-thread
         * Channel Topic: N/A
         * Used as a private text channel for `King` and `Kings Council` roles.
     * T: leadership-polls
         * Channel Topic: N/A
         * Currently no messages in this channel.
+    * V: Kings Chamber
     * V: Council Chambers
         * Used as a private voice channel for `King` and `Kings Council` roles.
     * V: Grizzle's Hideaway
