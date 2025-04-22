@@ -6,10 +6,13 @@ This README.md serves as documentation and changelog for the Fallen Discord comm
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
+Excel spreadsheet is converted to Markdown via the [Table to Markdown](https://tabletomarkdown.com/) online tool.
+
 ### Master Spreadsheet
 * [/Community Roles/Community Roles.xlsx](/Community%20Roles/Community%20Roles.xlsx)
 
 #### 04/22/25 - 6:10 PM EST
+
 * Non-Bot Role Server Permissions:
 
 | Role           | General Server Permissions | View Channels | Manage Channels | Manage Roles | Create Expressions | Manage Expressions | View Audit Log | Manage Webhooks | Manage Server | Membership Permissions | Create Invite | Change Nickname | Manage Nicknames | Kick, Approve, and Reject Members | Ban Members | Timeout Members | Text Channel Permissions | Send Messages | Send Messages in Threads | Create Public Threads | Create Private Threads | Embed Links | Attach Files | Add Reactions | Use External Emoji | Use External Stickers | Mention @everyone, @here, and All Roles | Manage Messages | Manage Threads | Read Message History | Send Text-to-Speech Messages | Send Voice Messages | Create Polls | Voice Channel Permissions | Connect  | Speak    | Video    | Use Soundboard | Use External Sounds | Use Voice Activity | Priority Speaker | Mute Members | Deafen Members | Move Members | Set Voice Channel Status | Apps Permissions | Use Application Commands | Use Activities | Use External Apps | Events Permissions | Create Events | Manage Events | Advanced Permissions | Administrator |
