@@ -7,7 +7,6 @@ This README.md serves as documentation and changelog for the Fallen Discord comm
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
 ### Table of Contents
-* [/Community Roles/Community Roles.xlsx](/Community%20Roles/Community%20Roles.xlsx)
 * [Categories and Channels - 04/22/25 - 12:09 AM EST](#042225---1209-am-est)
 * [Categories and Channels - 04/22/25 - 6:33 PM EST](#042225---633-pm-est)
 
