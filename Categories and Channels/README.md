@@ -11,19 +11,17 @@ This README.md serves as documentation and changelog for the Fallen Discord comm
 * [Categories and Channels - 04/22/25 - 6:33 PM EST](#042225---633-pm-est)
 
 #### Format and Example
-Below is an explanation of how categories and channels are documented within this README.md.
-
-Format:
-* <C: Category Name>
-    * <T: Text Channel Name>
-        * Notes/Comments
-    * <V: Voice Channel Name>
-        * Notes/Comments
-
-Example:
-* C: Example Category (Category with the name “Example Category".)
-    * T: Text Channel (Text channel with the name “Text Channel”.)
-    * V: Voice Channel (Voice channel with the name “Voice Channel”.)
+* Below is an explanation of how categories and channels are documented within this README.md.
+* Format:
+    * <C: Category Name>
+        * <T: Text Channel Name>
+            * Notes/Comments
+        * <V: Voice Channel Name>
+            * Notes/Comments
+* Example:
+    * C: Example Category (Category with the name “Example Category".)
+        * T: Text Channel (Text channel with the name “Text Channel”.)
+        * V: Voice Channel (Voice channel with the name “Voice Channel”.)
 
 #### 04/22/25 - 12:09 AM EST
 * C: <-------{Text Channels}------>
