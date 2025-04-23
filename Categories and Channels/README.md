@@ -87,7 +87,7 @@ Example:
 * C: <------{Voice Channels}------>
     * V: Lobby
     * V: RAID
-* C: <------{Grouping}------>
+* C: <----------{Grouping}---------->
     * T: lfg
         * Channel Topic: N/A
         * Used for guild members and guests to find groups in `Pantheon: Rise of the Fallen`.
@@ -134,14 +134,14 @@ Example:
         * Used as a private voice channel for `King` and `Kings Council` roles.
     * V: Grizzle's Hideaway
         * Used as a private voice channel for `Grizzle`.
-* C: <-----{Gear Locations}----->
+* C: <------{Gear Locations}------->
     * T: found-items
         * Channel Topic: N/A
         * Used as a text channel to share found loot in `Pantheon: Rise of the Fallen`.
     * T: shalazam-pantheon
         * Channel Topic: N/A
         * Contains a single message with a link to the [`Shalazam`](https://shalazam.info/) website.
-* C: <---------PVP--------->
+* C: <----------PVP--------->
     * T: pvp-chat
         * Channel Topic: N/A
         * Used as a text channel for those playing `PVP` in `Pantheon: Rise of the Fallen`. `Pvp-Guest` role does not have access to this channel.
@@ -240,7 +240,7 @@ Example:
 * C: <------{Voice Channels}------>
     * V: Lobby
     * V: RAID
-* C: <------{Grouping}------>
+* C: <----------{Grouping}---------->
     * T: lfg
         * Channel Topic: N/A
         * Used for guild members and guests to find groups in `Pantheon: Rise of the Fallen`.
@@ -272,6 +272,21 @@ Example:
         * Voice channel for streamers.
     * V: AFK
         * Voice channel for AFK.
+* C: <----------PVP--------->
+    * T: pvp-chat
+        * Channel Topic: N/A
+        * Used as a text channel for those playing `PVP` in `Pantheon: Rise of the Fallen`. `Pvp-Guest` role does not have access to this channel.
+    * T: pvp-guest-chat
+        * Channel Topic: N/A
+        * Used as a text channel for those playing `PVP` in `Pantheon: Rise of the Fallen`. `Pvp-Guest` role has access to this channel.
+    * V: PVP 1
+        * Voice channel for a `PVP` group. `Pvp-Guest` role does not have access to this channel.
+    * V: PVP 2
+        * Voice channel for a `PVP` group. `Pvp-Guest` role does not have access to this channel.
+    * V: PVP 3
+        * Voice channel for a `PVP` group. `Pvp-Guest` role does not have access to this channel.
+    * V: PVP-Guest 1
+        * Voice channel for a `PVP` group. `Pvp-Guest` role has access to this channel.
 * C: <-----{Private Chambers}----->
     * T: king-thread
         * Channel Topic: N/A
@@ -290,28 +305,13 @@ Example:
         * Used as a private voice channel for `King` and `Kings Council` roles.
     * V: Grizzle's Hideaway
         * Used as a private voice channel for `Grizzle`.
-* C: <-----{Gear Locations}----->
+* C: <------{Gear Locations}------->
     * T: found-items
         * Channel Topic: N/A
         * Used as a text channel to share found loot in `Pantheon: Rise of the Fallen`.
     * T: shalazam-pantheon
         * Channel Topic: N/A
         * Contains a single message with a link to the [`Shalazam`](https://shalazam.info/) website.
-* C: <---------PVP--------->
-    * T: pvp-chat
-        * Channel Topic: N/A
-        * Used as a text channel for those playing `PVP` in `Pantheon: Rise of the Fallen`. `Pvp-Guest` role does not have access to this channel.
-    * T: pvp-guest-chat
-        * Channel Topic: N/A
-        * Used as a text channel for those playing `PVP` in `Pantheon: Rise of the Fallen`. `Pvp-Guest` role has access to this channel.
-    * V: PVP 1
-        * Voice channel for a `PVP` group. `Pvp-Guest` role does not have access to this channel.
-    * V: PVP 2
-        * Voice channel for a `PVP` group. `Pvp-Guest` role does not have access to this channel.
-    * V: PVP 3
-        * Voice channel for a `PVP` group. `Pvp-Guest` role does not have access to this channel.
-    * V: PVP-Guest 1
-        * Voice channel for a `PVP` group. `Pvp-Guest` role has access to this channel.
 * C: <++++++{Other Games}++++++>
     * T: ashes-of-creation
         * Channel Topic: N/A
