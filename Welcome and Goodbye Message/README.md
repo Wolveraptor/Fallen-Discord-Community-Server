@@ -1,16 +1,16 @@
-# Bot Welcome and Goodbye Message
+# Welcome and Goodbye Message
 Fallen Discord community server welcome and goodbye message.
 
-## About Bot Welcome and Goodbye Message
+## About Welcome and Goodbye Message
 This README.md serves as documentation and changelog for the Fallen Discord community server welcome and goodbye message.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
-### XX/XX/XX - XX:XX AM/PM EST
-* Need access to Fallen MEE6 bot to document welcome and goodbye messages.
+### Table of Contents
+* [Welcome and Goodbye Message - Proposed Welcome Message - 04/22/25 - 8:02 PM EST](#proposed-welcome-message---042225---802-pm-est)
+* [Welcome and Goodbye Message - Proposed Goodbye Message - 04/22/25 - 8:02 PM EST](#proposed-goodbye-message---042225---802-pm-est)
 
-### Proposed Welcome and Goodbye Messages
-#### Welcome
+#### Proposed Welcome Message - 04/22/25 - 8:02 PM EST
 ```
 Hey {user.mention} ({user.id}), welcome to **{server.name}**!
 
@@ -25,7 +25,7 @@ Enjoy your time here at **{server.name}**, **{user.name}**!
 The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has joined **{server.name}**.
 ```
 
-#### Goodbye
+#### Proposed Goodbye Message - 04/22/25 - 8:02 PM EST
 ```
 We hope you enjoyed your time at **{server.name}**, **{user.name}**!
 
