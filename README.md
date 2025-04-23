@@ -12,5 +12,8 @@ This is Fallen's repository for storing information and configurations for the F
 * [Community Roles - README.md](/Community%20Roles/README.md)
 * [Community Rules - README.md](/Community%20Rules/README.md)
 * [Embedded Messages - README.md](/Embedded%20Messages/README.md)
+* [Images](/Images/)
 * [Reaction Roles - README.md](/Reaction%20Roles/README.md)
+* [Ticketing - README.md](/Ticketing/README.md)
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
+* [Welcome Channel - README.md](/Welcome%20Channel/README.md)
