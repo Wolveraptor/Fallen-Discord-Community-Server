@@ -6,7 +6,7 @@ This README.md serves as documentation and changelog for the Fallen Discord comm
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
-## Items to Note
+### Items to Note
 Icons:
 * Server Icon
     * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png```
@@ -53,5 +53,23 @@ Icons:
 
     ![alttext](/Images/Fallen%20-%20Miscellaneous%204%20-%201024x1024.png)
 
-### XX/XX/XX - XX:XX AM/PM EST
-* Need access to Fallen MEE6 bot to document reaction roles.
+### Table of Contents
+* [Reaction Roles - Roles - Operating System Roles - 02/22/25 – 12:50 PM EST](#roles---operating-system-roles---022225--1250-pm-est)
+* [Reaction Roles - Roles - Rules - 02/22/25 – 12:50 PM EST](#roles---rules---022225--1250-pm-est)
+
+#### Get Verified - 04/22/25 - 8:15 PM EST
+* Avatar Image: N/A
+* Header: N/A
+* Thumbnail Image: N/A
+* Title: ```Get verified```
+* "Write your message here!":
+    ```
+    Welcome to our server!
+
+    To gain access to all its features and channels, please verify yourself by clicking the ✅ emoji below.
+
+    Once verified, you'll be able to fully engage with our community and participate in all our events and activities.
+    ```
+* Emoji:
+    * ✅
+        * Associated with the `@Verified` role.
