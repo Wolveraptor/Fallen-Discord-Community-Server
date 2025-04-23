@@ -7,9 +7,9 @@ This README.md serves as documentation and changelog for the Fallen Discord comm
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
 ### Table of Contents
-* [Bad Words - Discord's AutoMod - Bad Words - XX:XX AM/PM EST](#discords-automod---bad-words---xxxx-ampm-est)
+* [Bad Words - XX:XX AM/PM EST](#discords-automod---bad-words---xxxx-ampm-est)
 
-#### Discord's AutoMod - Bad Words - XX:XX AM/PM EST
+#### Bad Words - XX:XX AM/PM EST
 * Not configured in Fallen's MEE6 bot at this time.
 * Formatted for use with Discord's AutoMod:
     ```
