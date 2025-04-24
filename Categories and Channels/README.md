@@ -1,12 +1,13 @@
-# Categories and Channels
-Fallen Discord community server categories and channels.
+# Fallen | Categories and Channels
+* Fallen Discord community server categories and channels.
 
-## About Categories and Channels
-This README.md serves as documentation and changelog for the Fallen Discord community server categories and channels.
+## Fallen | About Categories and Channels
+* This README.md serves as documentation and changelog for the Fallen Discord community server categories and channels.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
-### Table of Contents
+### Fallen | Table of Contents
+* [Categories and Channels - Format and Example](#format-and-example)
 * [Categories and Channels - 04/22/25 - 12:09 AM EST](#042225---1209-am-est)
 * [Categories and Channels - 04/22/25 - 6:33 PM EST](#042225---633-pm-est)
 * [Categories and Channels - 04/24/25 - 12:20 AM EST](#042425---1220-am-est)
