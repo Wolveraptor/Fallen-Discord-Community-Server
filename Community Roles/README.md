@@ -1,14 +1,14 @@
-# Community Roles
-Fallen Discord community server roles.
+# Fallen | Community Roles
+* Fallen Discord community server roles.
 
-## About Community Roles
-This README.md serves as documentation and changelog for the Fallen Discord community server community roles.
+## Fallen | About Community Roles
+* This README.md serves as documentation and changelog for the Fallen Discord community server community roles.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
-Excel spreadsheet is converted to Markdown via the [Table to Markdown](https://tabletomarkdown.com/) online tool.
+* Excel spreadsheet is converted to Markdown via the [Table to Markdown](https://tabletomarkdown.com/) online tool.
 
-### Table of Contents
+### Fallen | Table of Contents
 * [Community Roles - Community Roles.xlsx](/Community%20Roles/Community%20Roles.xlsx)
 * [Community Roles - 04/22/25 - 6:10 PM EST](#042225---610-pm-est)
 * [Community Roles - 04/22/25 - 10:34 PM EST](#042225---1034-pm-est)
