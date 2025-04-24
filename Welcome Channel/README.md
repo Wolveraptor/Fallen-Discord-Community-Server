@@ -1,12 +1,18 @@
-# Welcome Channel
-Fallen Discord community server welcome channel.
+# Fallen | Welcome Channel
+* Fallen Discord community server welcome channel.
 
-## About Welcome Channel
-This README.md serves as documentation and changelog for the Fallen Discord community server welcome channel.
+## Fallen | About Welcome Channel
+* This README.md serves as documentation and changelog for the Fallen Discord community server welcome channel.
 
 ![alttext](/Images/Server%20-%20Icon%20-%20Color%20Balance%20X2%20-%20Midtone%20Red%20-%20512x512%20-%20v3.png)
 
-## Items to Note
+### Fallen | Table of Contents
+* [Welcome Channel - Items to Note](#fallen--items-to-note)
+* [Welcome Channel - 04/22/25 - 8:23 PM EST](#042225---823-pm-est)
+* [Welcome Channel - 04/22/25 - 8:50 PM EST](#042225---850-pm-est)
+* [Welcome Channel - 04/22/25 - 9:33 PM EST](#042225---933-pm-est)
+
+### Fallen | Items to Note
 * Icons:
     * Fallen - Miscellaneous 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png```
@@ -67,11 +73,6 @@ This README.md serves as documentation and changelog for the Fallen Discord comm
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/MEE6%20-%20128x128.png```
 
         ![alttext](/Images/MEE6%20-%20128x128.png)
-
-### Table of Contents
-[Welcome Channel - 04/22/25 - 8:23 PM EST](#042225---823-pm-est)
-[Welcome Channel - 04/22/25 - 8:50 PM EST](#042225---850-pm-est)
-[Welcome Channel - 04/22/25 - 9:33 PM EST](#042225---933-pm-est)
 
 #### 04/22/25 - 8:23 PM EST
 1. Image Embed
