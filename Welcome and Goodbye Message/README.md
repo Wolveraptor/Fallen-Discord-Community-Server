@@ -7,6 +7,18 @@
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
 ### Fallen | Table of Contents
+* [Bad Words - README.md](/Bad%20Words/README.md)
+* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](/Community%20Roles/README.md)
+* [Community Rules - README.md](/Community%20Rules/README.md)
+* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
+* [Images](/Images/)
+* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
+* [Ticketing - README.md](/Ticketing/README.md)
+* [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
+* [Welcome Channel - README.md](/Welcome%20Channel/README.md)
+
+### Fallen | Welcome and Goodbye Message | Table of Contents
 * [Welcome and Goodbye Message - Proposed Welcome Message - 04/22/25 - 8:02 PM EST](#proposed-welcome-message---042225---802-pm-est)
 * [Welcome and Goodbye Message - Proposed Goodbye Message - 04/22/25 - 8:02 PM EST](#proposed-goodbye-message---042225---802-pm-est)
 
