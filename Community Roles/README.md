@@ -9,6 +9,18 @@
 * Excel spreadsheet is converted to Markdown via the [Table to Markdown](https://tabletomarkdown.com/) online tool.
 
 ### Fallen | Table of Contents
+* [Bad Words - README.md](/Bad%20Words/README.md)
+* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](/Community%20Roles/README.md)
+* [Community Rules - README.md](/Community%20Rules/README.md)
+* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
+* [Images](/Images/)
+* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
+* [Ticketing - README.md](/Ticketing/README.md)
+* [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
+* [Welcome Channel - README.md](/Welcome%20Channel/README.md)
+
+### Fallen | Community Roles | Table of Contents
 * [Community Roles - Community Roles.xlsx](/Community%20Roles/Community%20Roles.xlsx)
 * [Community Roles - 04/22/25 - 6:10 PM EST](#042225---610-pm-est)
 * [Community Roles - 04/22/25 - 10:34 PM EST](#042225---1034-pm-est)
