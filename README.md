@@ -1,12 +1,12 @@
-# Fallen Discord Community Server
-Fallen Discord community server GitHub repository.
+# Fallen | Discord Community Server
+* Fallen Discord community server GitHub repository.
 
-## About this Repository
-This is Fallen's repository for storing information and configurations for the Fallen Discord community server.
+## Fallen | About this Repository
+* This is Fallen's repository for storing information and configurations for the Fallen Discord community server.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
-### READMEs
+### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
 * [Community Roles - README.md](/Community%20Roles/README.md)
