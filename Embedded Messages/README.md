@@ -1,12 +1,15 @@
-# Embedded Messages
-Fallen Discord community server embedded messages.
+# Fallen | Embedded Messages
+* Fallen Discord community server embedded messages.
 
-## About Embedded Messages
-This README.md serves as documentation and changelog for the Fallen Discord community server embedded messages.
+## Fallen | About Embedded Messages
+* This README.md serves as documentation and changelog for the Fallen Discord community server embedded messages.
 
 ![alttext](/Images/Server%20-%20Icon%20-%20Color%20Balance%20X2%20-%20Midtone%20Red%20-%20512x512%20-%20v3.png)
 
-## Items to Note
+### Fallen | Table of Contents
+[Embedded Messages - 04/22/25 - 8:45 PM EST](#042225---845-pm-est)
+
+### Fallen | Items to Note
 * Icons:
     * Fallen - Miscellaneous 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png```
@@ -67,9 +70,6 @@ This README.md serves as documentation and changelog for the Fallen Discord comm
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/MEE6%20-%20128x128.png```
 
         ![alttext](/Images/MEE6%20-%20128x128.png)
-
-### Table of Contents
-[Embedded Messages - 04/22/25 - 8:45 PM EST](#042225---845-pm-est)
 
 #### 04/22/25 - 8:45 PM EST
 * No embedded messages are currently configured in the `MEE6` bot.
