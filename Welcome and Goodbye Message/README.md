@@ -1,12 +1,12 @@
-# Welcome and Goodbye Message
-Fallen Discord community server welcome and goodbye message.
+# Fallen | Welcome and Goodbye Message
+* Fallen Discord community server welcome and goodbye message.
 
-## About Welcome and Goodbye Message
-This README.md serves as documentation and changelog for the Fallen Discord community server welcome and goodbye message.
+## Fallen | About Welcome and Goodbye Message
+* This README.md serves as documentation and changelog for the Fallen Discord community server welcome and goodbye message.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
-### Table of Contents
+### Fallen | Table of Contents
 * [Welcome and Goodbye Message - Proposed Welcome Message - 04/22/25 - 8:02 PM EST](#proposed-welcome-message---042225---802-pm-est)
 * [Welcome and Goodbye Message - Proposed Goodbye Message - 04/22/25 - 8:02 PM EST](#proposed-goodbye-message---042225---802-pm-est)
 
