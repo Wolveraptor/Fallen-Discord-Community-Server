@@ -1,12 +1,12 @@
-# Ticketing
-Fallen Discord community server ticketing.
+# Fallen | Ticketing
+* Fallen Discord community server ticketing.
 
-## About Ticketing
-This README.md serves as documentation and changelog for the Fallen Discord community server ticketing.
+## Fallen | About Ticketing
+* This README.md serves as documentation and changelog for the Fallen Discord community server ticketing.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
-### Table of Contents
+### Fallen | Table of Contents
 * [Ticketing - 04/22/25 - 9:42 PM EST](#042225---942-pm-est)
 
 #### 04/22/25 - 9:42 PM EST
