@@ -1,12 +1,16 @@
-# Reaction Roles
-Fallen Discord community server reaction roles.
+# Fallen | Reaction Roles
+* Fallen Discord community server reaction roles.
 
-## About Reaction Roles
-This README.md serves as documentation and changelog for the Fallen Discord community server reaction roles.
+## Fallen | About Reaction Roles
+* This README.md serves as documentation and changelog for the Fallen Discord community server reaction roles.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
-## Items to Note
+### Fallen | Table of Contents
+* [Reaction Roles - Items to Note](#fallen--items-to-note)
+* [Reaction Roles - Get Verified - 04/22/25 - 8:15 PM EST](#get-verified---042225---815-pm-est)
+
+### Fallen | Items to Note
 * Icons:
     * Fallen - Miscellaneous 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png```
@@ -67,10 +71,6 @@ This README.md serves as documentation and changelog for the Fallen Discord comm
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/MEE6%20-%20128x128.png```
 
         ![alttext](/Images/MEE6%20-%20128x128.png)
-
-### Table of Contents
-* [Reaction Roles - Roles - Operating System Roles - 02/22/25 – 12:50 PM EST](#roles---operating-system-roles---022225--1250-pm-est)
-* [Reaction Roles - Roles - Rules - 02/22/25 – 12:50 PM EST](#roles---rules---022225--1250-pm-est)
 
 #### Get Verified - 04/22/25 - 8:15 PM EST
 * Avatar Image: N/A
