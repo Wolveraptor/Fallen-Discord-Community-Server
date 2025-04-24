@@ -1,12 +1,12 @@
-# Community Rules
-Fallen Discord community server rules.
+# Fallen | Community Rules
+* Fallen Discord community server rules.
 
-## About Categories and Channels
-This README.md serves as documentation and changelog for the Fallen Discord community server community rules.
+## Fallen | About Categories and Channels
+* This README.md serves as documentation and changelog for the Fallen Discord community server community rules.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
-### Table of Contents
+### Fallen | Table of Contents
 * [Community Rules - 04/22/25 - 8:55 PM EST](#042225---855-pm-est)
 
 #### 04/22/25 - 8:55 PM EST
