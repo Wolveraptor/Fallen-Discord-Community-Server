@@ -1,11 +1,14 @@
+<!-- omit from toc -->
 # Fallen | Ticketing
 * Fallen Discord community server ticketing.
 
+<!-- omit from toc -->
 ## Fallen | About Ticketing
 * This README.md serves as documentation and changelog for the Fallen Discord community server ticketing.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
@@ -18,10 +21,11 @@
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
+<!-- omit from toc -->
 ### Fallen | Ticketing | Table of Contents
-* [Ticketing - 04/22/25 - 9:42 PM EST](#042225---942-pm-est)
+* [Fallen | Ticketing | 04/22/25 - 9:42 PM EST](#fallen--ticketing--042225---942-pm-est)
 
-#### 04/22/25 - 9:42 PM EST
+#### Fallen | Ticketing | 04/22/25 - 9:42 PM EST
 * Ticketing Panel: `Sponsor a Squire`
   * Publish Channel: `# sponsor-a-squire`
   * Ticket Manager Roles: `King Council`
