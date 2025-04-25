@@ -23,9 +23,9 @@
 
 <!-- omit from toc -->
 ### Fallen | Bad Words | Table of Contents
-* [Fallen | Bad Words | Proposed Bad Words](#fallen--bad-words--proposed-bad-words)
+* [Fallen | Bad Words | Proposed Bad Words - XX:XX AM/PM EST](#fallen--bad-words--proposed-bad-words---xxxx-ampm-est)
 
-#### Fallen | Bad Words | Proposed Bad Words
+#### Fallen | Bad Words | Proposed Bad Words - XX:XX AM/PM EST
 * Not configured in Fallen's MEE6 bot at this time.
 * Formatted for use with Discord's AutoMod:
     ```
