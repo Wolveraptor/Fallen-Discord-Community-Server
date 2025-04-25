@@ -1,11 +1,14 @@
+<!-- omit from toc -->
 # Fallen | Welcome Channel
 * Fallen Discord community server welcome channel.
 
+<!-- omit from toc -->
 ## Fallen | About Welcome Channel
 * This README.md serves as documentation and changelog for the Fallen Discord community server welcome channel.
 
 ![alttext](/Images/Server%20-%20Icon%20-%20Color%20Balance%20X2%20-%20Midtone%20Red%20-%20512x512%20-%20v3.png)
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
@@ -18,13 +21,14 @@
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
+<!-- omit from toc -->
 ### Fallen | Welcome Channel | Table of Contents
-* [Welcome Channel - Items to Note](#fallen--items-to-note)
-* [Welcome Channel - 04/22/25 - 8:23 PM EST](#042225---823-pm-est)
-* [Welcome Channel - 04/22/25 - 8:50 PM EST](#042225---850-pm-est)
-* [Welcome Channel - 04/22/25 - 9:33 PM EST](#042225---933-pm-est)
+* [Fallen | Welcome Channel | Items to Note](#fallen--welcome-channel--items-to-note)
+* [Fallen | Welcome Channel | 04/22/25 - 8:23 PM EST](#fallen--welcome-channel--042225---823-pm-est)
+* [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen--welcome-channel--042225---850-pm-est)
+* [Fallen | Welcome Channel | 04/22/25 - 9:33 PM EST](#fallen--welcome-channel--042225---933-pm-est)
 
-### Fallen | Items to Note
+#### Fallen | Welcome Channel | Items to Note
 * Icons:
     * Fallen - Miscellaneous 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png```
@@ -86,7 +90,7 @@
 
         ![alttext](/Images/MEE6%20-%20128x128.png)
 
-#### 04/22/25 - 8:23 PM EST
+#### Fallen | Welcome Channel | 04/22/25 - 8:23 PM EST
 1. Image Embed
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png```
@@ -273,7 +277,7 @@
         - GUEST - Friends of <Fallen>
         ```
 
-#### 04/22/25 - 8:50 PM EST
+#### Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST
 1. Image Embed
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png```
@@ -458,7 +462,7 @@
         - GUEST - Friends of <Fallen>
         ```
 
-#### 04/22/25 - 9:33 PM EST
+#### Fallen | Welcome Channel | 04/22/25 - 9:33 PM EST
 1. Image Embed
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png```
