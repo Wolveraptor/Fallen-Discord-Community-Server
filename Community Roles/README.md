@@ -1,6 +1,8 @@
+<!-- omit from toc -->
 # Fallen | Community Roles
 * Fallen Discord community server roles.
 
+<!-- omit from toc -->
 ## Fallen | About Community Roles
 * This README.md serves as documentation and changelog for the Fallen Discord community server community roles.
 
@@ -8,6 +10,7 @@
 
 * Excel spreadsheet is converted to Markdown via the [Table to Markdown](https://tabletomarkdown.com/) online tool.
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
@@ -20,12 +23,13 @@
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
+<!-- omit from toc -->
 ### Fallen | Community Roles | Table of Contents
-* [Community Roles - Community Roles.xlsx](/Community%20Roles/Community%20Roles.xlsx)
-* [Community Roles - 04/22/25 - 6:10 PM EST](#042225---610-pm-est)
-* [Community Roles - 04/22/25 - 10:34 PM EST](#042225---1034-pm-est)
+* [Fallen | Community Roles | 04/22/25 - 6:10 PM EST](#fallen--community-roles--042225---610-pm-est)
+* [Fallen | Community Roles | 04/22/25 - 10:34 PM EST](#fallen--community-roles--042225---1034-pm-est)
+* [Fallen | Community Roles | Spreadsheets](#fallen--community-roles--spreadsheets)
 
-#### 04/22/25 - 6:10 PM EST
+#### Fallen | Community Roles | 04/22/25 - 6:10 PM EST
 * All Role Server Permissions:
 
 | Role           | General Server Permissions | View Channels | Manage Channels | Manage Roles | Create Expressions | Manage Expressions | View Audit Log | Manage Webhooks | Manage Server | Membership Permissions | Create Invite | Change Nickname | Manage Nicknames | Kick, Approve, and Reject Members | Ban Members | Timeout Members | Text Channel Permissions | Send Messages | Send Messages in Threads | Create Public Threads | Create Private Threads | Embed Links | Attach Files | Add Reactions | Use External Emoji | Use External Stickers | Mention @everyone, @here, and All Roles | Manage Messages | Manage Threads | Read Message History | Send Text-to-Speech Messages | Send Voice Messages | Create Polls | Voice Channel Permissions | Connect  | Speak    | Video    | Use Soundboard | Use External Sounds | Use Voice Activity | Priority Speaker | Mute Members | Deafen Members | Move Members | Set Voice Channel Status | Apps Permissions | Use Application Commands | Use Activities | Use External Apps | Events Permissions | Create Events | Manage Events | Advanced Permissions | Administrator |
@@ -83,7 +87,7 @@
 | Raid-Helper    |                            | Enabled       | Enabled         | Enabled      | Disabled           | Disabled           | Enabled        | Disabled        | Disabled      |                        | Disabled      | Disabled        | Disabled         | Disabled                          | Disabled    | Disabled        |                          | Enabled       | Enabled                  | Enabled               | Enabled                | Enabled     | Enabled      | Enabled       | Enabled            | Disabled              | Enabled                                 | Enabled         | Enabled        | Enabled              | Disabled                     | Disabled            | Disabled     |                           | Enabled  | Disabled | Disabled | Disabled       | Disabled            | Disabled           | Disabled         | Disabled     | Disabled       | Disabled     | Disabled                 |                  | Enabled                  | Disabled       | Disabled          |                    | Disabled      | Disabled      |                      | Disabled      |
 | Statbot        |                            | Enabled       | Enabled         | Enabled      | Disabled           | Disabled           | Disabled       | Disabled        | Disabled      |                        | Disabled      | Disabled        | Disabled         | Disabled                          | Disabled    | Disabled        |                          | Enabled       | Enabled                  | Disabled              | Disabled               | Enabled     | Enabled      | Disabled      | Disabled           | Disabled              | Disabled                                | Disabled        | Disabled       | Enabled              | Disabled                     | Disabled            | Disabled     |                           | Enabled  | Disabled | Disabled | Disabled       | Disabled            | Disabled           | Disabled         | Disabled     | Disabled       | Disabled     | Disabled                 |                  | Disabled                 | Disabled       | Disabled          |                    | Disabled      | Disabled      |                      | Enabled       |
 
-#### 04/22/25 - 10:34 PM EST
+#### Fallen | Community Roles | 04/22/25 - 10:34 PM EST
 * All Role Server Permissions:
 
 | Role           | General Server Permissions | View Channels | Manage Channels | Manage Roles | Create Expressions | Manage Expressions | View Audit Log | Manage Webhooks | Manage Server | Membership Permissions | Create Invite | Change Nickname | Manage Nicknames | Kick, Approve, and Reject Members | Ban Members | Timeout Members | Text Channel Permissions | Send Messages | Send Messages in Threads | Create Public Threads | Create Private Threads | Embed Links | Attach Files | Add Reactions | Use External Emoji | Use External Stickers | Mention @everyone, @here, and All Roles | Manage Messages | Manage Threads | Read Message History | Send Text-to-Speech Messages | Send Voice Messages | Create Polls | Voice Channel Permissions | Connect  | Speak    | Video    | Use Soundboard | Use External Sounds | Use Voice Activity | Priority Speaker | Mute Members | Deafen Members | Move Members | Set Voice Channel Status | Apps Permissions | Use Application Commands | Use Activities | Use External Apps | Events Permissions | Create Events | Manage Events | Advanced Permissions | Administrator |
@@ -140,3 +144,6 @@
 | PointSentinel  |                            | Enabled       | Disabled        | Disabled     | Disabled           | Disabled           | Disabled       | Disabled        | Disabled      |                        | Disabled      | Disabled        | Disabled         | Disabled                          | Disabled    | Disabled        |                          | Enabled       | Enabled                  | Enabled               | Enabled                | Enabled     | Enabled      | Disabled      | Disabled           | Disabled              | Disabled                                | Disabled        | Disabled       | Enabled              | Disabled                     | Disabled            | Disabled     |                           | Enabled  | Enabled  | Disabled | Disabled       | Disabled            | Disabled           | Disabled         | Disabled     | Disabled       | Disabled     | Disabled                 |                  | Enabled                  | Disabled       | Disabled          |                    | Disabled      | Disabled      |                      | Disabled      |
 | Raid-Helper    |                            | Enabled       | Enabled         | Enabled      | Disabled           | Disabled           | Enabled        | Disabled        | Disabled      |                        | Disabled      | Disabled        | Disabled         | Disabled                          | Disabled    | Disabled        |                          | Enabled       | Enabled                  | Enabled               | Enabled                | Enabled     | Enabled      | Enabled       | Enabled            | Disabled              | Enabled                                 | Enabled         | Enabled        | Enabled              | Disabled                     | Disabled            | Disabled     |                           | Enabled  | Disabled | Disabled | Disabled       | Disabled            | Disabled           | Disabled         | Disabled     | Disabled       | Disabled     | Disabled                 |                  | Enabled                  | Disabled       | Disabled          |                    | Disabled      | Disabled      |                      | Disabled      |
 | Statbot        |                            | Enabled       | Enabled         | Enabled      | Disabled           | Disabled           | Disabled       | Disabled        | Disabled      |                        | Disabled      | Disabled        | Disabled         | Disabled                          | Disabled    | Disabled        |                          | Enabled       | Enabled                  | Disabled              | Disabled               | Enabled     | Enabled      | Disabled      | Disabled           | Disabled              | Disabled                                | Disabled        | Disabled       | Enabled              | Disabled                     | Disabled            | Disabled     |                           | Enabled  | Disabled | Disabled | Disabled       | Disabled            | Disabled           | Disabled         | Disabled     | Disabled       | Disabled     | Disabled                 |                  | Disabled                 | Disabled       | Disabled          |                    | Disabled      | Disabled      |                      | Enabled       |
+
+#### Fallen | Community Roles | Spreadsheets
+* [Community Roles - Community Roles.xlsx](/Community%20Roles/Community%20Roles.xlsx)
