@@ -23,10 +23,10 @@
 
 <!-- omit from toc -->
 ### Fallen | Welcome and Goodbye Message | Table of Contents
-* [Fallen | Welcome and Goodbye Message | Proposed Welcome Message - 04/22/25 - 8:02 PM EST](#fallen--welcome-and-goodbye-message--proposed-welcome-message---042225---802-pm-est)
-* [Fallen | Welcome and Goodbye Message | Proposed Goodbye Message - 04/22/25 - 8:02 PM EST](#fallen--welcome-and-goodbye-message--proposed-goodbye-message---042225---802-pm-est)
+* [Fallen | Welcome and Goodbye Message | Proposed Welcome Message - XX:XX AM/PM EST](#fallen--welcome-and-goodbye-message--proposed-welcome-message---xxxx-ampm-est)
+* [Fallen | Welcome and Goodbye Message | Proposed Goodbye Message - XX:XX AM/PM EST](#fallen--welcome-and-goodbye-message--proposed-goodbye-message---xxxx-ampm-est)
 
-#### Fallen | Welcome and Goodbye Message | Proposed Welcome Message - 04/22/25 - 8:02 PM EST
+#### Fallen | Welcome and Goodbye Message | Proposed Welcome Message - XX:XX AM/PM EST
 ```
 Hey {user.mention} ({user.id}), welcome to **{server.name}**!
 
@@ -41,7 +41,7 @@ Enjoy your time here at **{server.name}**, **{user.name}**!
 The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has joined **{server.name}**.
 ```
 
-#### Fallen | Welcome and Goodbye Message | Proposed Goodbye Message - 04/22/25 - 8:02 PM EST
+#### Fallen | Welcome and Goodbye Message | Proposed Goodbye Message - XX:XX AM/PM EST
 ```
 We hope you enjoyed your time at **{server.name}**, **{user.name}**!
 
