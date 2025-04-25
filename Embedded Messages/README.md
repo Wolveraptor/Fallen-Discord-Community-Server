@@ -1,11 +1,14 @@
+<!-- omit from toc -->
 # Fallen | Embedded Messages
 * Fallen Discord community server embedded messages.
 
+<!-- omit from toc -->
 ## Fallen | About Embedded Messages
 * This README.md serves as documentation and changelog for the Fallen Discord community server embedded messages.
 
 ![alttext](/Images/Server%20-%20Icon%20-%20Color%20Balance%20X2%20-%20Midtone%20Red%20-%20512x512%20-%20v3.png)
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
@@ -18,10 +21,13 @@
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
+<!-- omit from toc -->
 ### Fallen | Embedded Messages | Table of Contents
-[Embedded Messages - 04/22/25 - 8:45 PM EST](#042225---845-pm-est)
+* [Fallen | Embedded Messages | Items to Note](#fallen--embedded-messages--items-to-note)
+* [Fallen | Embedded Messages | 04/22/25 - 8:45 PM EST](#fallen--embedded-messages--042225---845-pm-est)
 
-### Fallen | Items to Note
+
+#### Fallen | Embedded Messages | Items to Note
 * Icons:
     * Fallen - Miscellaneous 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png```
@@ -83,5 +89,5 @@
 
         ![alttext](/Images/MEE6%20-%20128x128.png)
 
-#### 04/22/25 - 8:45 PM EST
+#### Fallen | Embedded Messages | 04/22/25 - 8:45 PM EST
 * No embedded messages are currently configured in the `MEE6` bot.
