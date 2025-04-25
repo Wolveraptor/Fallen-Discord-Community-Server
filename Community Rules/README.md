@@ -1,11 +1,14 @@
+<!-- omit from toc -->
 # Fallen | Community Rules
 * Fallen Discord community server rules.
 
+<!-- omit from toc -->
 ## Fallen | About Categories and Channels
 * This README.md serves as documentation and changelog for the Fallen Discord community server community rules.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
@@ -18,10 +21,11 @@
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
+<!-- omit from toc -->
 ### Fallen | Community Rules | Table of Contents
-* [Community Rules - 04/22/25 - 8:55 PM EST](#042225---855-pm-est)
+* [Fallen | Community Rules | 04/22/25 - 8:55 PM EST](#fallen--community-rules--042225---855-pm-est)
 
-#### 04/22/25 - 8:55 PM EST
+#### Fallen | Community Rules | 04/22/25 - 8:55 PM EST
 * The below was taken from the `Welcome Channel` rules.
 * RULES:
     * GENERAL:
