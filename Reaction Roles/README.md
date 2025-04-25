@@ -1,11 +1,14 @@
+<!-- omit from toc -->
 # Fallen | Reaction Roles
 * Fallen Discord community server reaction roles.
 
+<!-- omit from toc -->
 ## Fallen | About Reaction Roles
 * This README.md serves as documentation and changelog for the Fallen Discord community server reaction roles.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
@@ -18,11 +21,12 @@
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
+<!-- omit from toc -->
 ### Fallen | Reaction Roles | Table of Contents
-* [Reaction Roles - Items to Note](#fallen--items-to-note)
-* [Reaction Roles - Get Verified - 04/22/25 - 8:15 PM EST](#get-verified---042225---815-pm-est)
+* [Fallen | Reaction Roles | Items to Note](#fallen--reaction-roles--items-to-note)
+* [Fallen | Reaction Roles | Get Verified - 04/22/25 - 8:15 PM EST](#fallen--reaction-roles--get-verified---042225---815-pm-est)
 
-### Fallen | Items to Note
+#### Fallen | Reaction Roles | Items to Note
 * Icons:
     * Fallen - Miscellaneous 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png```
@@ -84,7 +88,7 @@
 
         ![alttext](/Images/MEE6%20-%20128x128.png)
 
-#### Get Verified - 04/22/25 - 8:15 PM EST
+#### Fallen | Reaction Roles | Get Verified - 04/22/25 - 8:15 PM EST
 * Avatar Image: N/A
 * Header: N/A
 * Thumbnail Image: N/A
