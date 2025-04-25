@@ -1,11 +1,14 @@
+<!-- omit from toc -->
 # Fallen | Bad Words
 * Fallen Discord community server bad words.
 
+<!-- omit from toc -->
 ## Fallen | About Bad Words
 * This README.md serves as documentation and changelog for the Fallen Discord community server bad words.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
@@ -18,10 +21,11 @@
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
+<!-- omit from toc -->
 ### Fallen | Bad Words | Table of Contents
-* [Bad Words - XX:XX AM/PM EST](#discords-automod---bad-words---xxxx-ampm-est)
+* [Fallen | Bad Words | Proposed Bad Words](#fallen--bad-words--proposed-bad-words)
 
-#### Bad Words - XX:XX AM/PM EST
+#### Fallen | Bad Words | Proposed Bad Words
 * Not configured in Fallen's MEE6 bot at this time.
 * Formatted for use with Discord's AutoMod:
     ```
