@@ -1,11 +1,14 @@
+<!-- omit from toc -->
 # Fallen | Categories and Channels
 * Fallen Discord community server categories and channels.
 
+<!-- omit from toc -->
 ## Fallen | About Categories and Channels
 * This README.md serves as documentation and changelog for the Fallen Discord community server categories and channels.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
@@ -18,16 +21,17 @@
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
+<!-- omit from toc -->
 ### Fallen | Categories and Channels | Table of Contents
-* [Categories and Channels - Format and Example](#format-and-example)
-* [Categories and Channels - 04/22/25 - 12:09 AM EST](#042225---1209-am-est)
-* [Categories and Channels - 04/22/25 - 6:33 PM EST](#042225---633-pm-est)
-* [Categories and Channels - 04/24/25 - 12:20 AM EST](#042425---1220-am-est)
-* [Categories and Channels - 04/24/25 - 10:47 AM EST](#042425---1047-am-est)
-* [Categories and Channels - 04/24/25 - 1:52 PM EST](#042425---152-pm-est)
-* [Categories and Channels - 04/25/25 - 9:43 AM EST](#042525---943-am-est)
+* [Fallen | Categories and Channels | Format and Example](#fallen--categories-and-channels--format-and-example)
+* [Fallen | Categories and Channels | 04/22/25 - 12:09 AM EST](#fallen--categories-and-channels--042225---1209-am-est)
+* [Fallen | Categories and Channels | 04/22/25 - 6:33 PM EST](#fallen--categories-and-channels--042225---633-pm-est)
+* [Fallen | Categories and Channels | 04/24/25 - 10:47 AM EST](#fallen--categories-and-channels--042425---1047-am-est)
+* [Fallen | Categories and Channels | 04/24/25 - 12:20 AM EST](#fallen--categories-and-channels--042425---1220-am-est)
+* [Fallen | Categories and Channels | 04/24/25 - 1:52 PM EST](#fallen--categories-and-channels--042425---152-pm-est)
+* [Fallen | Categories and Channels | 04/25/25 - 9:43 AM EST](#fallen--categories-and-channels--042525---943-am-est)
 
-#### Format and Example
+#### Fallen | Categories and Channels | Format and Example
 * Below is an explanation of how categories and channels are documented within this README.md.
 * Format:
     * <C: Category Name>
@@ -46,7 +50,7 @@
         * V: Voice Channel (Voice channel with the name “Voice Channel”.)
         * F: Forum Channel (Forum channel with the name "Forum Channel".)
 
-#### 04/22/25 - 12:09 AM EST
+#### Fallen | Categories and Channels | 04/22/25 - 12:09 AM EST
 * C: <-------{Text Channels}------>
     * T: welcome-rules
         * Channel Topic: N/A
@@ -199,7 +203,7 @@
     * T: `<Crafting Request Ticket>`
         * Tickets that are marked as `Closed` in the `📥crafting-requests` channel are moved here.
 
-#### 04/22/25 - 6:33 PM EST
+#### Fallen | Categories and Channels | 04/22/25 - 6:33 PM EST
 * C: <-------{Text Channels}------>
     * T: welcome-rules
         * Channel Topic: N/A
@@ -355,7 +359,7 @@
     * T: `<Crafting Request Ticket>`
         * Tickets that are marked as `Closed` in the `📥crafting-requests` channel are moved here.
 
-#### 04/24/25 - 10:47 AM EST
+#### Fallen | Categories and Channels | 04/24/25 - 10:47 AM EST
 * C: ╭・💬  Text Channels
     * T: 🚨・welcome-rules
         * Channel Topic: N/A
@@ -526,7 +530,7 @@
     * T: `<Crafting Request Ticket>`
         * Tickets that are marked as `Closed` in the `📥crafting-requests` channel are moved here.
 
-#### 04/24/25 - 12:20 AM EST
+#### Fallen | Categories and Channels | 04/24/25 - 12:20 AM EST
 * C: ╭・💬  Text Channels
     * T: 🚨・welcome-rules
         * Channel Topic: N/A
@@ -697,7 +701,7 @@
     * T: `<Crafting Request Ticket>`
         * Tickets that are marked as `Closed` in the `📥crafting-requests` channel are moved here.
 
-#### 04/24/25 - 1:52 PM EST
+#### Fallen | Categories and Channels | 04/24/25 - 1:52 PM EST
 * C: ╭・💬  Text Channels
     * T: 🚨・welcome-rules
         * Channel Topic: N/A
@@ -874,7 +878,7 @@
     * T: `<Crafting Request Ticket>`
         * Tickets that are marked as `Closed` in the `📥crafting-requests` channel are moved here.
 
-#### 04/25/25 - 9:43 AM EST
+#### Fallen | Categories and Channels | 04/25/25 - 9:43 AM EST
 * C: ╭・💬  Text Channels
     * T: 🚨・welcome-rules
         * Channel Topic: N/A
