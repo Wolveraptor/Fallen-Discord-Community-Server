@@ -1,11 +1,14 @@
+<!-- omit from toc -->
 # Fallen | Welcome and Goodbye Message
 * Fallen Discord community server welcome and goodbye message.
 
+<!-- omit from toc -->
 ## Fallen | About Welcome and Goodbye Message
 * This README.md serves as documentation and changelog for the Fallen Discord community server welcome and goodbye message.
 
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
@@ -18,11 +21,12 @@
 * [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
+<!-- omit from toc -->
 ### Fallen | Welcome and Goodbye Message | Table of Contents
-* [Welcome and Goodbye Message - Proposed Welcome Message - 04/22/25 - 8:02 PM EST](#proposed-welcome-message---042225---802-pm-est)
-* [Welcome and Goodbye Message - Proposed Goodbye Message - 04/22/25 - 8:02 PM EST](#proposed-goodbye-message---042225---802-pm-est)
+* [Fallen | Welcome and Goodbye Message | Proposed Welcome Message - 04/22/25 - 8:02 PM EST](#fallen--welcome-and-goodbye-message--proposed-welcome-message---042225---802-pm-est)
+* [Fallen | Welcome and Goodbye Message | Proposed Goodbye Message - 04/22/25 - 8:02 PM EST](#fallen--welcome-and-goodbye-message--proposed-goodbye-message---042225---802-pm-est)
 
-#### Proposed Welcome Message - 04/22/25 - 8:02 PM EST
+#### Fallen | Welcome and Goodbye Message | Proposed Welcome Message - 04/22/25 - 8:02 PM EST
 ```
 Hey {user.mention} ({user.id}), welcome to **{server.name}**!
 
@@ -37,7 +41,7 @@ Enjoy your time here at **{server.name}**, **{user.name}**!
 The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has joined **{server.name}**.
 ```
 
-#### Proposed Goodbye Message - 04/22/25 - 8:02 PM EST
+#### Fallen | Welcome and Goodbye Message | Proposed Goodbye Message - 04/22/25 - 8:02 PM EST
 ```
 We hope you enjoyed your time at **{server.name}**, **{user.name}**!
 
