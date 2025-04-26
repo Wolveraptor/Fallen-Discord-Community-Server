@@ -33,7 +33,7 @@
 * [Fallen | Categories and Channels | 04/25/25 - 2:32 PM EST](#fallen--categories-and-channels--042525---232-pm-est)
 * [Fallen | Categories and Channels | 04/25/25 - 9:43 AM EST](#fallen--categories-and-channels--042525---943-am-est-1)
 * [Fallen | Categories and Channels | 04/25/25 - 11:55 PM EST](#fallen--categories-and-channels--042525---1155-pm-est)
-* [Fallen | Categories and Channels | 04/26/25 - 12:51 PM EST](#fallen--categories-and-channels--042625---1251-pm-est)
+* [Fallen | Categories and Channels | 04/26/25 - 1:30 PM EST](#fallen--categories-and-channels--042625---130-pm-est)
 
 #### Fallen | Categories and Channels | Format and Example
 * Below is an explanation of how categories and channels are documented within this README.md.
@@ -1599,7 +1599,7 @@
     * T: `<Crafting Request Ticket>`
         * Tickets that are marked as `Closed` in the `📥crafting-requests` channel are moved here.
 
-#### Fallen | Categories and Channels | 04/26/25 - 12:51 PM EST
+#### Fallen | Categories and Channels | 04/26/25 - 1:30 PM EST
 * C: ╭・💬  Text Channels
     * T: 🚨・welcome-rules
         * Channel Topic: N/A
@@ -1659,7 +1659,7 @@
     * T: `<Crafting Request Ticket>`
         * Additional text channels will automatically be created in the `<---------{Crafting}---------->` category when crafting request tickets are created in the `📥crafting-requests` channel.
 * C: ╭・🔊  Voice Channels
-    * V: 🛋・Lobby
+    * V: 🔊・Lobby
     * V: 🐉・RAID
 * C: ╭・🤝  Grouping
     * T: 🔍・lfg
