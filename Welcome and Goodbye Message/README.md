@@ -23,25 +23,23 @@
 
 <!-- omit from toc -->
 ### Fallen | Welcome and Goodbye Message | Table of Contents
-* [Fallen | Welcome and Goodbye Message | Proposed Welcome Message - XX:XX AM/PM EST](#fallen--welcome-and-goodbye-message--proposed-welcome-message---xxxx-ampm-est)
-* [Fallen | Welcome and Goodbye Message | Proposed Goodbye Message - XX:XX AM/PM EST](#fallen--welcome-and-goodbye-message--proposed-goodbye-message---xxxx-ampm-est)
+* [Fallen | Welcome and Goodbye Message | Welcome Message - 04/25/25 - 8:38 PM EST](#fallen--welcome-and-goodbye-message--welcome-message---042525---838-pm-est)
+* [Fallen | Welcome and Goodbye Message | Goodbye Message - 04/25/25 - 8:38 PM EST](#fallen--welcome-and-goodbye-message--goodbye-message---042525---838-pm-est)
 
-#### Fallen | Welcome and Goodbye Message | Proposed Welcome Message - XX:XX AM/PM EST
+#### Fallen | Welcome and Goodbye Message | Welcome Message - 04/25/25 - 8:38 PM EST
 ```
 Hey {user.mention} ({user.id}), welcome to **{server.name}**!
 
-* Head on over to the https://discord.com/channels/1190406648259432448/1190563462468874241 channel to view information about the community.
-  * Alternatively, you can click [here](https://discord.com/channels/1190406648259432448/1190563462468874241/1194644633007947846) to be brought to the community overview message immediately.
-* Please review the rules located in the https://discord.com/channels/1190406648259432448/1195548408182743161 channel.
-  * You may also click [here](https://discord.com/channels/1190406648259432448/1195548408182743161/1195548746574991400) to be brought to the rules.
-* Once you have read the rules, make your way to the https://discord.com/channels/1190406648259432448/1191837535849168957 channel to assign yourself some roles.
+* Head on over to the https://discordapp.com/channels/943993242591064154/1294483430893031465 channel to get verified, view the rules, and read an overview of the guild.
+    * You may also click [here](https://discordapp.com/channels/943993242591064154/1294483430893031465/1294801647607873587) to be brought to the `Get Verified` message immediately.
+* The https://discordapp.com/channels/943993242591064154/1298409235201134602 channel contains announcements from Pantheon: Rise of the Fallen's official Discord server.
 
 Enjoy your time here at **{server.name}**, **{user.name}**!
 
 The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has joined **{server.name}**.
 ```
 
-#### Fallen | Welcome and Goodbye Message | Proposed Goodbye Message - XX:XX AM/PM EST
+#### Fallen | Welcome and Goodbye Message | Goodbye Message - 04/25/25 - 8:38 PM EST
 ```
 We hope you enjoyed your time at **{server.name}**, **{user.name}**!
 
