@@ -1639,7 +1639,7 @@
         * Used for `MEE6` polls.
     * T: 💬・pantheon-general
         * Channel Topic: N/A
-* C: ╭・🪪  Member Chats
+* C: ╭・🏡  Member Chats
     * T: 📝・sponsor-a-squire
         * Channel Topic: N/A
         * Used for `MEE6` ticket creation to sponsor a `Squire`.
