@@ -23,10 +23,10 @@
 
 <!-- omit from toc -->
 ### Fallen | Reaction Roles | Table of Contents
-* [Fallen | Reaction Roles | Items to Note](#fallen--reaction-roles--items-to-note)
+* [Fallen | Welcome Channel | Items to Note](#fallen--welcome-channel--items-to-note)
 * [Fallen | Reaction Roles | Get Verified - 04/22/25 - 8:15 PM EST](#fallen--reaction-roles--get-verified---042225---815-pm-est)
 
-#### Fallen | Reaction Roles | Items to Note
+#### Fallen | Welcome Channel | Items to Note
 * Icons:
     * Fallen - Miscellaneous 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png```
@@ -58,10 +58,10 @@
 
         ![alttext](/Images/Fallen%20-%20Server%20Banner%20Background%20-%201023x575.png)
 
-    * Fallen - Server Icon - 545x390
-        * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png```
+    * Fallen - Server Icon - 949x969
+        * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png```
 
-        ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
+        ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
 
     * Fallen - Server Invite Background - 545x390
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png```
