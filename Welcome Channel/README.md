@@ -30,7 +30,7 @@
 * [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen--welcome-channel--042225---850-pm-est-1)
 * [Fallen | Welcome Channel | 04/28/25 - 2:02 PM EST](#fallen--welcome-channel--042825---202-pm-est)
 * [Fallen | Welcome Channel | 04/30/25 - 9:54 AM EST](#fallen--welcome-channel--043025---954-am-est)
-* [Fallen | Welcome Channel | 04/30/25 - 1:45 PM EST](#fallen--welcome-channel--043025---145-pm-est)
+* [Fallen | Welcome Channel | 04/30/25 - 1:54 PM EST](#fallen--welcome-channel--043025---154-pm-est)
 
 #### Fallen | Welcome Channel | Items to Note
 * Icons:
@@ -1159,7 +1159,7 @@
         * Supports members looking to improve their PvP skills and builds.
         ```
 
-#### Fallen | Welcome Channel | 04/30/25 - 1:45 PM EST
+#### Fallen | Welcome Channel | 04/30/25 - 1:54 PM EST
 1. Custom Banner
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png```
@@ -1230,8 +1230,8 @@
           * **ROLLING PROCESS**:
             * **Need Before Greed (NBG)**:
               * **Need Roll**: Roll if the item is a significant upgrade for your current main role (e.g., a DPS player rolling on a high-DPS weapon).
-              * **Greed Roll: Roll if you want the item for off-spec, selling, or Salvaging.
-              * **Greed rolls are made after all Need rolls have been resolved.
+              * **Greed Roll**: Roll if you want the item for off-spec, selling, or Salvaging.
+              * **Note**: Greed rolls are made after all Need rolls have been resolved.
           * **ROLLING COMMANDS**:
             * **Need Roll**: Type /roll 100 if you need the item for your main role.
             * **Greed Roll**: Type /roll 100 if you want the item for other purposes after need rolls are complete.
@@ -1241,8 +1241,8 @@
         ### PRIORITY RULES
         * **PRIORITY RULES OVERVIEW**:
         * **VETERAN PRIORITY**: Players who have been actively participating in the group longer and contributing to the grind for the item have priority.
-          * (Veteran players will roll first): (THIS IS FOR GUILD GROUPS ONLY, NOT RAIDS OR PUGS, AND SHOULD BE COMMUNICATED IF ANYTHING SPECIFIC IS BEING FARMED/CAMPED)
-          * (Newcomers Roll Last): Newcomers or those who joined the raid recently can roll only after the veteran players have rolled and had their chance at the item. (THIS IS FOR GUILD GROUPS ONLY, NOT RAIDS OR PUGS, AND SHOULD BE COMMUNICATED IF ANYTHING SPECIFIC IS BEING FARMED/CAMPED)
+          * **VETERAN PLAYERS WILL ROLL FIRST**: This is for guild groups only, not RAIDs or PUGs, and should be communicated if anything specific is being farmed/camped.
+          * **NEWCOMERS ROLL LAST**: Newcomers or those who joined the RAID recently can roll only after the veteran players have rolled and had their chance at the item. This is for guild groups only, not RAIDs or PUGs, and should be communicated if anything specific is being farmed/camped.
         * **MAINS OVER ALTS**: Main characters (mains) have priority over alternate characters (alts). Alts can roll Need only if no mains roll Need for the item.
         ```
 7. Mods Embed
@@ -1272,7 +1272,7 @@
                * Matches their discord name to their main character name in game.
                * Reads and accepts the <#1294483430893031465>.
                * Finds a sponsor and updates their sponsorship in <#1319823873453326347>.
-                 * Note this must be done **PRIOR TO RECIEVING A GUILD TAG IN GAME**!
+                 * Note: This must be done **PRIOR TO RECIEVING A GUILD TAG IN GAME**!
          * **SPONSORSHIP (1 SQUIRE PER MEMBER)**:
            * **Initial Assessment**: Conduct an informal assessment of the recruit's skills, behavior, and compatibility with the guild's values and objectives.
            * **Assign a Sponsor**: Each recruit should be paired with a seasoned guild member (Knight or above) who will act as their sponsor. The sponsor will guide the recruit, introduce them to guild activities, and monitor their progress.
