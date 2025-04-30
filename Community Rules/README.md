@@ -24,6 +24,7 @@
 <!-- omit from toc -->
 ### Fallen | Community Rules | Table of Contents
 * [Fallen | Community Rules | 04/22/25 - 8:55 PM EST](#fallen--community-rules--042225---855-pm-est)
+* [Fallen | Community Rules | New Player Onboarding - The Fallen - 043025](#fallen--community-rules--new-player-onboarding---the-fallen---043025)
 
 #### Fallen | Community Rules | 04/22/25 - 8:55 PM EST
 * The below was taken from the `Welcome Channel` rules.
@@ -111,3 +112,6 @@
         * (KNIGHT) - Casual Members that have proven themselves and contribute when they can and benefit from all perks associated with being a member of `<Fallen>`.
         * (SQUIRE) - Temporary Members that are being vetted for full membership based on how well they fit into the `<Fallen>` community.
         * (GUEST) - Friends of `<Fallen>`.
+
+#### Fallen | Community Rules | New Player Onboarding - The Fallen - 043025
+* [New Player Onboarding - The Fallen Guild - 043025.pdf](/Community%20Rules/New%20Player%20Onboarding%20-%20The%20Fallen%20Guild%20-%20043025.pdf)
