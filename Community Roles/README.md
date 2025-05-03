@@ -17,6 +17,7 @@
 * [Community Roles - README.md](/Community%20Roles/README.md)
 * [Community Rules - README.md](/Community%20Rules/README.md)
 * [Embedded Messages - README.md](/Embedded%20Messages/README.md)
+* [Events - README.md](/Events/README.md)
 * [Images](/Images/)
 * [Reaction Roles - README.md](/Reaction%20Roles/README.md)
 * [Ticketing - README.md](/Ticketing/README.md)
