@@ -38,7 +38,7 @@
 * [Fallen | Categories and Channels | 04/26/25 - 1:30 PM EST](#fallen--categories-and-channels--042625---130-pm-est)
 * [Fallen | Categories and Channels | 04/27/25 - 12:27 PM EST](#fallen--categories-and-channels--042725---1227-pm-est)
 * [Fallen | Categories and Channels | 05/02/25 - 12:25 AM EST](#fallen--categories-and-channels--050225---1225-am-est)
-* [Fallen | Categories and Channels | 05/04/25 - 12:22 PM EST](#fallen--categories-and-channels--050425---1222-pm-est)
+* [Fallen | Categories and Channels | 05/04/25 - 3:26 PM EST](#fallen--categories-and-channels--050425---326-pm-est)
 
 #### Fallen | Categories and Channels | Format and Example
 * Below is an explanation of how categories and channels are documented within this README.md.
@@ -2149,7 +2149,7 @@
     * T: `<Crafting Request Ticket>`
         * Tickets that are marked as `Closed` in the `📥crafting-requests` channel are moved here.
 
-#### Fallen | Categories and Channels | 05/04/25 - 12:22 PM EST
+#### Fallen | Categories and Channels | 05/04/25 - 3:26 PM EST
 * C: ╭・🌎  PVE - General
     * T: 🚨・welcome-rules
         * Channel Topic: N/A
@@ -2213,7 +2213,7 @@
         * Channel Topic: N/A
         * Used for guild members and guests to find groups in `Pantheon: Rise of the Fallen`.
     * T: 🎲・raid-loot-roll
-        * Channel Topic: `Enter the following to roll for loot: /roll 100`
+        * Channel Topic: `Enter the following to roll for loot: /roll limit:100`
         * Used for rolling for loot during guild events.
     * V: 🔊・Lobby
     * V: 🐉・RAID
@@ -2303,6 +2303,9 @@
     * T: 📊・leadership-polls
         * Channel Topic: N/A
         * Currently no messages in this channel.
+    * T: 🪪・mee6-reaction-roles-testing
+        * Channel Topic: N/A
+        * Used for testing `reaction roles` created with `MEE6`.
     * V: 🔊・Kings Chamber
     * V: 🔊・Council Chambers
         * Used as a private voice channel for `King` and `Kings Council` roles.
