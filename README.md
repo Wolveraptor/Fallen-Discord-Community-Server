@@ -7,6 +7,7 @@
 ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
 
 ### Fallen | Table of Contents
+* [Automations - README.md](/Automations/README.md)
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
 * [Community Roles - README.md](/Community%20Roles/README.md)
