@@ -24,10 +24,11 @@
 
 <!-- omit from toc -->
 ### Fallen | Reaction Roles | Table of Contents
-* [Fallen | Welcome Channel | Items to Note](#fallen--welcome-channel--items-to-note)
+* [Fallen | Reaction Roles | Items to Note](#fallen--reaction-roles--items-to-note)
 * [Fallen | Reaction Roles | Get Verified - 04/22/25 - 8:15 PM EST](#fallen--reaction-roles--get-verified---042225---815-pm-est)
+* [Fallen | Reaction Roles | PVE or PVP Role - 05/04/25 – 1:36 PM EST](#fallen--reaction-roles--pve-or-pvp-role---050425--136-pm-est)
 
-#### Fallen | Welcome Channel | Items to Note
+#### Fallen | Reaction Roles | Items to Note
 * Icons:
     * Fallen - Miscellaneous 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png```
@@ -105,3 +106,22 @@
 * Emoji:
     * ✅
         * Associated with the `@Verified` role.
+
+#### Fallen | Reaction Roles | PVE or PVP Role - 05/04/25 – 1:36 PM EST
+* Avatar Image: ```https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/MEE6%20-%20128x128.png```
+* Header: ```MEE6```
+* Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/fallen/discord-community-server/-/raw/main/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png```
+* Title: ```Roles```
+* "Write your message here!": N/A
+* Field 1 Name: ```"🌎 PVE Guest" or "🪦 PVP Guest" Role```
+* Field 1 Value:
+    ```
+    The buttons listed below correspond to the `PVE Guest` and `PVP Guest` roles.
+
+    Click on the `🌎 PVE Guest` button to be added to the `PVE Guest` role and see the `PVE Guest` channels.
+
+    Click on the `🪦 PVP Guest` button to be added to the `PVP Guest` role and see the `PVP Guest` channels.
+    ```
+* Buttons:
+    * PVE Guest
+    * PVP Guest
