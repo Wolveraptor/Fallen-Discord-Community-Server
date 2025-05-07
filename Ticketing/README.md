@@ -29,22 +29,22 @@
 
 #### Fallen | Ticketing | 04/22/25 - 9:42 PM EST
 * Ticketing Panel: `Sponsor a Squire`
-  * Publish Channel: `# sponsor-a-squire`
+  * Publish Channel: `📝・sponsor-a-squire`
   * Ticket Manager Roles: `King Council`
   * Panel Message: `Please Click to Sponsor a Squire`
   * Ticket Types: `Buttons`
     * Emoji: `🧙`
     * Label: `Sponsor`
     * Color: `Red`
-    * Category where tickets will be created: `Sponsor Discussion`
-    * Category where claimed tickets will be moved: `Squire Voting`
-    * Category where closed tickets will be moved: `Closed Tickets`
+    * Category where tickets will be created: `╭・💬  Sponsor Discussion`
+    * Category where claimed tickets will be moved: `╭・📊  Squire Voting`
+    * Category where closed tickets will be moved: `╭・🚧  Closed Tickets`
   * Ticket Introduction Message:
     ```
     Please state the name of the squire you want to sponsor and the reason you are choosing to sponsor them
     ```
 * Ticketing Panel: `Crafting Requests`
-  * Publish Channel: `# sponsor-a-squire`
+  * Publish Channel: `📝・crafting-requests`
   * Ticket Manager Roles: `King Council` and `Crafter`
   * Panel Message:
     ```
@@ -57,9 +57,9 @@
     * Emoji: `📩`
     * Label: `Crafting Request`
     * Color: `Green`
-    * Category where tickets will be created: `<---------{Crafting}---------->`
-    * Category where claimed tickets will be moved: `<---------{Crafting}---------->`
-    * Category where closed tickets will be moved: `Closed Tickets`
+    * Category where tickets will be created: `╭・🌎  PVE-Crafting`
+    * Category where claimed tickets will be moved: `╭・🌎  PVE-Crafting`
+    * Category where closed tickets will be moved: `╭・🚧  Closed Tickets`
   * Ticket Introduction Message:
     ```
     Please make sure to include:
