@@ -4,7 +4,7 @@
 ## Fallen | About this Repository
 * This is Fallen's repository for storing information and configurations for the Fallen Discord community server.
 
-![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
+![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
 ### Fallen | Table of Contents
 * [Automations - README.md](/Automations/README.md)
