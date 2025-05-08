@@ -29,6 +29,7 @@
 * [Fallen | Welcome and Goodbye Message | Welcome Message - 04/25/25 - 8:38 PM EST](#fallen--welcome-and-goodbye-message--welcome-message---042525---838-pm-est)
 * [Fallen | Welcome and Goodbye Message | Goodbye Message - 04/25/25 - 8:38 PM EST](#fallen--welcome-and-goodbye-message--goodbye-message---042525---838-pm-est)
 * [Fallen | Welcome and Goodbye Message | Welcome Message - 05/08/25 - 7:31 PM EST](#fallen--welcome-and-goodbye-message--welcome-message---050825---731-pm-est)
+* [Fallen | Welcome and Goodbye Message | Welcome Message - 05/08/25 - 7:51 PM EST](#fallen--welcome-and-goodbye-message--welcome-message---050825---751-pm-est)
 
 #### Fallen | Welcome and Goodbye Message | Welcome Message - 04/25/25 - 8:38 PM EST
 ```
@@ -59,6 +60,20 @@ Hey {user.mention} ({user.id}), welcome to **{server.name}**!
 * Head on over to the https://discord.com/channels/943993242591064154/1370177963751899167 channel to assign yourself either the "🌎 PVE Guest" or " 🪦PVP Guest" role.
   * You may also click [here](https://discord.com/channels/943993242591064154/1370177963751899167/1370178096841621556) to be brought to the `Roles` message immediately.
 * The https://discordapp.com/channels/943993242591064154/1298409235201134602 channel contains announcements from Pantheon: Rise of the Fallen's official Discord server.
+
+Enjoy your time here at **{server.name}**, **{user.name}**!
+
+The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has joined **{server.name}**.
+```
+
+#### Fallen | Welcome and Goodbye Message | Welcome Message - 05/08/25 - 7:51 PM EST
+```
+Hey {user.mention} ({user.id}), welcome to **{server.name}**!
+
+* Head on over to the https://discord.com/channels/943993242591064154/1294483430893031465 channel to get view the rules and an overview of the guild.
+* The https://discord.com/channels/943993242591064154/1298409235201134602 channel contains general `announcements` from the `Pantheon: Rise of the Fallen` official Discord server.
+* The https://discord.com/channels/943993242591064154/1370185591823798344 channel contains `server status` announcements from the `Pantheon: Rise of the Fallen` official Discord server.
+* The https://discord.com/channels/943993242591064154/1370185633217253446 channel contains `patch notes` announcements from the `Pantheon: Rise of the Fallen` official Discord server.
 
 Enjoy your time here at **{server.name}**, **{user.name}**!
 
