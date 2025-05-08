@@ -15,6 +15,7 @@
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
 * [Community Roles - README.md](/Community%20Roles/README.md)
 * [Community Rules - README.md](/Community%20Rules/README.md)
+* [Custom Commands - README.md](/Custom%20Commands/README.md)
 * [Embedded Messages - README.md](/Embedded%20Messages/README.md)
 * [Events - README.md](/Events/README.md)
 * [Images](/Images/)
