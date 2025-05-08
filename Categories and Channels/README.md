@@ -2970,21 +2970,24 @@
     * T: 📢・welcome-and-goodbye
         * Channel Topic: N/A
         * Configured for `MEE6` welcome messages and cards.
-    * T: 🪪・roles
+    * T: 📢・pantheon-announcements
         * Channel Topic: N/A
-        * Used for `reaction roles` created with `MEE6`.
+        * Configured to follow the `announcements` announcement channel in the `Pantheon: Rise of the Fallen` Discord server.
+    * T: 📢・pantheon-server-status
+        * Channel Topic: N/A
+        * Configured to follow the `server-status` announcement channel in the `Pantheon: Rise of the Fallen` Discord server.
+    * T: 📢・pantheon-patch-notes
+        * Channel Topic: N/A
+        * Configured to follow the `patch-notes` announcement channel in the `Pantheon: Rise of the Fallen` Discord server.
+    * T: 📝・recruitment
+        * Channel Topic: `List of classes that are open or closed for recruitment along with their level requirement.`
+        * Used to advertise which classes recruitment for `Fallen` is open for.
     * T: 💬・general
         * Channel Topic: N/A
 * C: ╭・🌎  PVE - General
     * T: 📢・guild-announcements
         * Channel Topic: N/A
         * The roles `King` and `King Council` can post in this channel. All other roles can only read.
-    * T: 📢・pantheon-official-announcements
-        * Channel Topic: N/A
-        * Configured to relay messages from `Official Pantheon: Rise of the Fallen #📢server-status`, `Official Pantheon: Rise of the Fallen #📢announcements`, and `Official Pantheon: Rise of the Fallen #📢patch-notes`.
-    * T: 📝・recruitment
-        * Channel Topic: `List of classes that are open or closed for recruitment along with their level requirement.`
-        * Used to advertise which classes recruitment for `Fallen` is open for.
     * T: 📅・activity-checks
         * Channel Topic: N/A
         * Used for tracking active members via the `Raid-Helper` Discord bot.
