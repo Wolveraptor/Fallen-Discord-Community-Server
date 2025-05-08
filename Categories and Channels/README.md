@@ -2707,7 +2707,7 @@
     * F: 📝・champion-discussion
         * Channel Topic: N/A
         * Used to discuss the rollout/implementation of the `Champion` role within `Fallen`.
-    * T: 💬・discord-cleanup
+    * T: 💬・discord-management-•-bot-support-•-future-database-planning
         * Channel Topic: N/A
         * Used to discuss the cleanup/reorganization of the Discord server.
     * T: 💬・dragon-kill-points
