@@ -30,6 +30,8 @@
 * [Fallen | Custom Commands | !promotion---knight - 05/08/25 – 4:08 PM EST](#fallen--custom-commands--promotion---knight---050825--408-pm-est)
 * [Fallen | Custom Commands | !squire-to-knight-promotion - 05/08/25 – 4:08 PM EST](#fallen--custom-commands--squire-to-knight-promotion---050825--408-pm-est)
 * [Fallen | Custom Commands | !test-quire-to-knight-promotion - 05/08/25 – 4:08 PM EST](#fallen--custom-commands--test-quire-to-knight-promotion---050825--408-pm-est)
+* [Fallen | Custom Commands | !recognition-f-shack-award - 05/08/25 – 9:22 PM EST](#fallen--custom-commands--recognition-f-shack-award---050825--922-pm-est)
+* [Fallen | Custom Commands | !test-recognition-f-shack-award - 05/08/25 – 9:22 PM EST](#fallen--custom-commands--test-recognition-f-shack-award---050825--922-pm-est)
 
 #### Fallen | Custom Commands | Items to Note
 * Icons:
@@ -140,4 +142,44 @@
         ```
     * Upload Thumbnail image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png`
     * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Promotion%20-%20Squire%20to%20Knight.png`
+    * Footer: N/A
+
+#### Fallen | Custom Commands | !recognition-f-shack-award - 05/08/25 – 9:22 PM EST
+* Custom Command: `!recognition-f-shack-award`
+* Channel: `💬・mee6-custom-commands-testing`
+* Message to send:
+    * Write your message here!: N/A
+    * Upload Avatar image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+    * Header: Fallen
+    * Title: Recognition "F-Shack" Award
+    * Write your message here!:
+        ```
+        <@&1184165070016610404>, please congratulate <@199393822143152129> on their **"F-Shack" Award**!
+
+        In recognition of continued efforts that not only meet but exceed expectations, the monthly **"F-Shack" Award** goes to <@199393822143152129>!
+
+        Thanks for the F-shack. Love, Dirty <@199393822143152129> and the <@&1184165070016610404>.
+        ```
+    * Upload Thumbnail image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png`
+    * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Recognition.png`
+    * Footer: N/A
+
+#### Fallen | Custom Commands | !test-recognition-f-shack-award - 05/08/25 – 9:22 PM EST
+* Custom Command: `!recognition-f-shack-award`
+* Channel: `💬・mee6-custom-commands-testing`
+* Message to send:
+    * Write your message here!: N/A
+    * Upload Avatar image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+    * Header: Fallen
+    * Title: Recognition "F-Shack" Award
+    * Write your message here!:
+        ```
+        <@&1184165070016610404>, please congratulate <@199393822143152129> on their **"F-Shack" Award**!
+
+        In recognition of continued efforts that not only meet but exceed expectations, the monthly **"F-Shack" Award** goes to <@199393822143152129>!
+
+        Thanks for the F-shack. Love, Dirty <@199393822143152129> and the <@&1184165070016610404>.
+        ```
+    * Upload Thumbnail image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png`
+    * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Recognition.png`
     * Footer: N/A
