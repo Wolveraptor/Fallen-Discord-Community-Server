@@ -26,11 +26,11 @@
 
 <!-- omit from toc -->
 ### Fallen | Embedded Messages | Table of Contents
-* [Fallen | Welcome Channel | Items to Note](#fallen--welcome-channel--items-to-note)
-* [Fallen | Embedded Messages | 04/22/25 - 8:45 PM EST](#fallen--embedded-messages--042225---845-pm-est)
+* [Fallen | Embedded Messages | Items to Note](#fallen--embedded-messages--items-to-note)
+* [Fallen | Embedded Messages | 05/08/25 - 8:08 PM EST](#fallen--embedded-messages--050825---808-pm-est)
 
 
-#### Fallen | Welcome Channel | Items to Note
+#### Fallen | Embedded Messages | Items to Note
 * Icons:
     * Fallen - Miscellaneous - 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%201%20-%20544x454.png```
@@ -92,5 +92,31 @@
 
         ![alttext](/Images/Bots/MEE6%20-%20128x128.png)
 
-#### Fallen | Embedded Messages | 04/22/25 - 8:45 PM EST
-* No embedded messages are currently configured in the `MEE6` bot.
+#### Fallen | Embedded Messages | 05/08/25 - 8:08 PM EST
+* Avatar Image: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png```
+* Header: ```Fallen```
+* Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
+* Title: N/A
+* "Write your message here!":
+    ```
+    ## Fallen Recruitment
+    We are currently recruiting dedicated and skilled adventurers to join our ranks as we push deeper into the challenges of Terminus. We welcome those who meet the following criteria.
+
+    ### General Requirements
+    * **Character Level**: 30 or higher
+    * **Active Playtime**: Minimum 3 sessions per week
+    * **Voice Chat**: Access to Discord and willingness to communicate in discord as well as during group content
+    * **Team Attitude**: Cooperative, respectful, and willing to contribute to group progression
+    * **Game Knowledge**: Familiarity with class mechanics, dungeon etiquette, and group synergy
+
+    ### Class Needs (Priority Recruitment)
+    * **Tank Classes (e.g. Warrior, Dire Lord, Paladin)**: HIGH
+    * **Healing Classes (e.g. Cleric, Shaman, Druid)**: HIGH
+    * **Support Classes (e.g. Enchanter, Bard)**: MEDIUM
+    * **DPS Classes (e.g. Ranger, Rogue, Monk, Wizard)**: LOW-MEDIUM (selective)
+
+    ### Preferred Traits
+    * Willingness to learn and adapt to group strategies and receptiveness to feedback on class mechanics and strategies.
+    * Interest in high-end PvE including but not limited to dungeons and raids.
+    * Ability to follow raid leaders and contribute to theorycrafting or tactics.
+    ```
