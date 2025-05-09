@@ -44,6 +44,7 @@
 * [Fallen | Categories and Channels | 05/08/25 - 4:07 PM EST](#fallen--categories-and-channels--050825---407-pm-est)
 * [Fallen | Categories and Channels | 05/08/25 - 7:14 PM EST](#fallen--categories-and-channels--050825---714-pm-est)
 * [Fallen | Categories and Channels | 05/08/25 - 7:43 PM EST](#fallen--categories-and-channels--050825---743-pm-est)
+* [Fallen | Categories and Channels | 05/08/25 - 8:13 PM EST](#fallen--categories-and-channels--050825---813-pm-est)
 
 #### Fallen | Categories and Channels | Format and Example
 * Below is an explanation of how categories and channels are documented within this README.md.
@@ -2983,6 +2984,231 @@
         * Channel Topic: `List of classes that are open or closed for recruitment along with their level requirement.`
         * Used to advertise which classes recruitment for `Fallen` is open for.
     * T: 💬・general
+        * Channel Topic: N/A
+* C: ╭・🌎  PVE - General
+    * T: 📢・guild-announcements
+        * Channel Topic: N/A
+        * The roles `King` and `King Council` can post in this channel. All other roles can only read.
+    * T: 📅・activity-checks
+        * Channel Topic: N/A
+        * Used for tracking active members via the `Raid-Helper` Discord bot.
+    * T: 📅・sign-ups
+        * Channel Topic: N/A
+        * Used for sign-ups for guild events via the `Raid-Helper` Discord bot.
+    * T: 📊・polls
+        * Channel Topic: N/A
+        * Used for `MEE6` polls.
+    * T: 💬・pantheon-general
+        * Channel Topic: N/A
+* C: ╭・🌎  PVE - Member Chats
+    * T: 📝・guild-roster
+        * Channel Topic:
+            ```
+            Guild Roster Format:
+            * Main
+                * Name: <Character Name>
+                * Class: <Character Class>
+                * Level: <Character Level>
+            * Alt (1-X)
+                * Name: <Character Name>
+                * Class: <Character Class
+                * Level: <Character Level>
+            
+            -----
+            
+            Example:
+            * Main
+                * Name: Syzemyozdl
+                * Class: Dire Lord
+                * Level: 35
+            * Alt 1
+                * Name: Syzemyozwar
+                * Class: Warrior
+                * Level: 28
+            ```
+        * Used for guild members to post the name of their main and alternate characters and request invites to the guild. This is currently used as a paper trail for requesting invites to the guild.
+    * T: 💤・extended-afk
+        * Channel Topic: N/A
+        * Used for guild members to announcement if they will be AFK for an extended amount of time. What is the definition of `extended amount of time`? One week? Two weeks?****
+    * T: 📚・resources
+        * Channel Topic: `Updated maps for each area.`
+    * T: 🔍・found-items
+        * Channel Topic: N/A
+        * Used as a text channel to share found loot in `Pantheon: Rise of the Fallen`.
+    * T: 📝・sponsor-a-squire
+        * Channel Topic: N/A
+        * Used for `MEE6` ticket creation to sponsor a `Squire`.
+    * T: 💬・guild-fullmember-discussion
+        * Channel Topic: N/A
+        * This is a `Knight` and above only chat. The `Squire` role does not have access to this chat.
+    * T: 📷・rl-pics-memes
+        * Channel Topic: N/A
+        * This is a `Knight` and above only chat. The `Squire` role does not have access to this chat.
+* C: ╭・🌎  PVE-Crafting
+    * T: 📝・crafting-requests
+        * Channel Topic: N/A
+        * Used for `MEE6` ticket creation to create a crafting request.
+    * T: 💬・crafting-discussion
+        * Channel Topic: N/A
+        * Used for discussing crafting in `Pantheon: Rise of the Fallen`.
+    * T: `<Crafting Request Ticket>`
+        * Additional text channels will automatically be created in the `<---------{Crafting}---------->` category when crafting request tickets are created in the `📥crafting-requests` channel.
+ * C: ╭・🌎  PVE - Grouping
+    * T: 🔍・lfg
+        * Channel Topic: N/A
+        * Used for guild members and guests to find groups in `Pantheon: Rise of the Fallen`.
+    * T: 🎲・raid-loot-roll
+        * Channel Topic: `Enter the following to roll for loot: /roll limit:100`
+        * Used for rolling for loot during guild events.
+    * V: 🔊・Lobby
+    * V: 🐉・RAID
+    * V: 🔊・Group 1
+        * Voice channel for a group.
+    * V: 🔊・Group 2
+        * Voice channel for a group.
+    * V: 🔊・Group 3
+        * Voice channel for a group.
+    * V: 🔊・Group 4
+        * Voice channel for a group.
+    * V: 🔊・Group 5
+        * Voice channel for a group.
+    * V: 🔊・Group 6
+        * Voice channel for a group.
+    * V: 🔊・Group 7
+        * Voice channel for a group.
+    * V: 🔊・Group 8
+        * Voice channel for a group.
+    * V: 🔊・Group 9
+        * Voice channel for a group.
+    * V: 🔊・Group 10
+        * Voice channel for a group.
+    * V: 🔊・Group 11
+        * Voice channel for a group.
+    * V: 🔊・Group 12
+        * Voice channel for a group.
+    * V: 📡・Streamers Haven
+        * Voice channel for streamers.
+    * V: 💤・Away From Keyboard
+        * Voice channel for AFK.
+* C: ╭・🪦  PVP-Member
+    * T: 📢・announcements
+    * T: 📚・resources
+        * Channel Topic: N/A
+    * F: 📝・recruitment
+        * Channel Topic: N/A
+    * F: 📝・kos-friendly-list
+        * Channel Topic: N/A
+        * Used to post `KOS` (`Kill On Sight`) individuals and guilds for PVP.
+    * T: 🔍・lfg-pvp
+        * Channel Topic: N/A
+    * T: 💬・pvp-chat
+        * Channel Topic: N/A
+        * Used as a text channel for those playing `PVP` in `Pantheon: Rise of the Fallen`. `Pvp-Guest` role does not have access to this channel.
+    * V: 🔊・PVP 1
+        * Voice channel for a `PVP` group. `Pvp-Guest` role does not have access to this channel.
+    * V: 🔊・PVP 2
+        * Voice channel for a `PVP` group. `Pvp-Guest` role does not have access to this channel.
+    * V: 🔊・PVP 3
+        * Voice channel for a `PVP` group. `Pvp-Guest` role does not have access to this channel.
+* * C: ╭・🪦  PVP - Guest
+    * T: 💬・pvp-guest-chat
+        * Channel Topic: N/A
+        * Used as a text channel for those playing `PVP` in `Pantheon: Rise of the Fallen`. `Pvp-Guest` role has access to this channel.
+    * V: 🔊・PVP-Guest 1
+        * Voice channel for a `PVP` group. `Pvp-Guest` role has access to this channel.
+    * V: 🔊・PVP-Guest 2
+        * Voice channel for a `PVP` group. `Pvp-Guest` role has access to this channel.
+    * V: 🔊・PVP-Guest 3
+        * Voice channel for a `PVP` group. `Pvp-Guest` role has access to this channel.
+* C: ╭・🔒  Private Chambers
+    * T: 📖・mee6-logs
+        * Channel Topic: N/A
+        * `MEE6` bot `Moderator` add-on enabled and configured to send all auditing events to this channel.
+    * T: 📢・safety-notifications
+        * Channel Topic: N/A
+        * Configured as “Safety Notifications Channel” within Discord server “Server Settings” → “Community” → “Overview”.
+    * T: 📢・discord-community-updates
+        * Channel Topic: N/A
+        * Configured as “Community Updates Channel” within Discord server “Server Settings” → “Community” → “Overview”.
+    * T: 💬・king-thread
+        * Channel Topic: N/A
+        * Used as a private text channel for the `King` role.
+    * T: 💬・council-thread
+        * Channel Topic: N/A
+        * Used as a private text channel for `King` and `Kings Council` roles.
+    * F: 📝・champion-discussion
+        * Channel Topic: N/A
+        * Used to discuss the rollout/implementation of the `Champion` role within `Fallen`.
+    * T: 💬・discord-management-•-bot-support-•-future-database-planning
+        * Channel Topic: N/A
+        * Used to discuss the cleanup/reorganization of the Discord server.
+    * T: 💬・dragon-kill-points
+        * Channel Topic: N/A
+        * Used to discuss the rollout/implementation of a `DKP` (`Dragon Kill Point`) system for use during RAIDs/events in `Pantheon: Rise of the Fallen`.
+    * T: 📊・leadership-polls
+        * Channel Topic: N/A
+        * Currently no messages in this channel.
+    * T: 🪪・mee6-reaction-roles-testing
+        * Channel Topic: N/A
+        * Used for testing `reaction roles` created with `MEE6`.
+    * T: 💬・mee6-custom-commands-testing
+        * Channel Topic: N/A
+        * Used for testing `custom commands` created with `MEE6`.
+    * V: 🔊・Kings Chamber
+    * V: 🔊・Council Chambers
+        * Used as a private voice channel for `King` and `Kings Council` roles.
+* C: ╭・🎮  Other Games
+    * T: 📢・ashes-official
+        * Channel Topic: N/A
+        * Configured to relay messages from `Ashes of Creation #alpha-two-news`.
+    * T: 💬・ashes-of-creation
+        * Channel Topic: N/A
+        * Used as a text channel to discuss the game `Ashes of Creation`.
+    * V: 🔊・Group 1
+        * Voice channel for a group.
+    * V: 🔊・Group 2
+        * Voice channel for a group.
+    * V: 🔊・Group 3
+        * Voice channel for a group.
+* C: ╭・💬  Sponsor Discussion
+    * T: `<Sponsor a Squire Ticket>`
+        * Additional text channels will automatically be created in the `Sponsor Discussion` category when a ticket is created in the `sponsor-a-squire` channel.
+* C: ╭・📊  Squire Voting
+    * There are currently no text or voice channels in the `Squire Voting` category.
+* C: ╭・🚧  Closed Tickets
+    * T: `<Crafting Request Ticket>`
+        * Tickets that are marked as `Closed` in the `📥crafting-requests` channel are moved here.
+
+#### Fallen | Categories and Channels | 05/08/25 - 8:13 PM EST
+* C: ╭・📌  Fallen
+    * T: 🚨・welcome-rules
+        * Channel Topic: N/A
+        * Configured for `MEE6` embedded messages to describe the guild and outline the rules.
+        * Configured as `Rules or Guidelines Channel` within Discord server `Server Settings` → `Community` → `Overview`.
+    * T: 📢・welcome-and-goodbye
+        * Channel Topic: N/A
+        * Configured for `MEE6` welcome messages and cards.
+    * T: 📢・pantheon-announcements
+        * Channel Topic: N/A
+        * Configured to follow the `announcements` announcement channel in the `Pantheon: Rise of the Fallen` Discord server.
+    * T: 📢・pantheon-server-status
+        * Channel Topic: N/A
+        * Configured to follow the `server-status` announcement channel in the `Pantheon: Rise of the Fallen` Discord server.
+    * T: 📢・pantheon-patch-notes
+        * Channel Topic: N/A
+        * Configured to follow the `patch-notes` announcement channel in the `Pantheon: Rise of the Fallen` Discord server.
+    * T: 📝・recruitment
+        * Channel Topic: `List of classes that are open or closed for recruitment along with their level requirement.`
+        * Used to advertise which classes recruitment for `Fallen` is open for.
+    * T: 👋・introductions
+        * Channel Topic: N/A
+    * T: 💬・general
+        * Channel Topic: N/A
+    * T: 💬・general-irl
+        * Channel Topic: N/A
+    * T: 🎲・off-topic
+        * Channel Topic: N/A
+    * T: 😂・memes
         * Channel Topic: N/A
 * C: ╭・🌎  PVE - General
     * T: 📢・guild-announcements
