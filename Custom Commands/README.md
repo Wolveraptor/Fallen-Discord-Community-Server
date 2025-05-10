@@ -161,7 +161,7 @@
         Thanks for the F-shack. Love, Dirty <@199393822143152129> and the <@&1184165070016610404>.
         ```
     * Upload Thumbnail image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png`
-    * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Recognition.png`
+    * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Recognition%20-%20F-Shack%20Award.png`
     * Footer: N/A
 
 #### Fallen | Custom Commands | !test-recognition-f-shack-award - 05/08/25 – 9:22 PM EST
@@ -181,5 +181,5 @@
         Thanks for the F-shack. Love, Dirty <@199393822143152129> and the <@&1184165070016610404>.
         ```
     * Upload Thumbnail image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png`
-    * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Recognition.png`
+    * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Recognition%20-%20F-Shack%20Award.png`
     * Footer: N/A
