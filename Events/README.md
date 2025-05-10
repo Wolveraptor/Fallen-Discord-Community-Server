@@ -33,11 +33,16 @@
 
 
 #### Fallen | Events | Items to Note
-* The GIMP (.xcf) template for creating images for events can be found [here](/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20Template.xcf)
+* The GIMP (.xcf) template for creating images for events can be found [here](/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20Template.xcf)
 * 05/03/25 - PVE - Wyvern / Named Farming
-    * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050325.png```
-
-        ![alttext](/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050325.png)
+    * Image URL: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20050325.png`
+    * Image: ![alttext](/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20050325.png)
+* 05/09/25 - PVE - EXP / FARM
+    * Image URL: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20050925.png`
+    * Image: ![alttext](/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20050925.png)
+* 05/14/25 - PVE - TBD
+    * Image URL: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20051425.png`
+    * Image: ![alttext](/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20051425.png)
 
 #### Fallen | Events | 05/03/25 - PVE - Wyvern / Named Farming
 * 05/03/25 - PVE - Wyvern / Named Farming.
@@ -51,14 +56,11 @@
         * End Date: 05/04/25 12:00 AM
         * Event Frequency: Does not repeat
         * Description: RSVP and sign up for this event [here](https://discordapp.com/channels/943993242591064154/1354619698909548624/1366802813090533386).
-        * Cover Image: [```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png```](/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050325.png)
+        * Cover Image: [`https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Fallen%20-%20Miscellaneous%201%20-%20544x454.png`](/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20050325.png)
     * Review
         * Create Event
     * Miscellaneous
         * Event link: https://discord.gg/fallen-pantheon?event=1368344455555448894
-    * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050325.png```
-
-        ![alttext](/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050325.png)
 
 #### Fallen | Events | 05/09/25 - PVE - EXP / FARM
 * 05/09/25 - PVE - Wyvern / Named Farming.
@@ -68,8 +70,8 @@
             * This is a URL that goes to the `📅・sign-ups` text channel.
     * Event Info
         * Event Topic: PVE - Wyvern / Named Farming
-        * Start Date: 05/03/25 9:00 PM
-        * End Date: 05/04/25 12:00 AM
+        * Start Date: 05/09/25 9:00 PM
+        * End Date: 05/10/25 12:00 AM
         * Event Frequency: Does not repeat
         * Description:
             ```
@@ -84,14 +86,11 @@
             **Description:**
             Exp / Farm
             ```
-        * Cover Image: [```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050925.png```](/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050925.png)
+        * Cover Image: [`https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050925.png`](/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050925.png)
     * Review
         * Create Event
     * Miscellaneous
         * Event link: https://discord.com/events/943993242591064154/1369833660362129508
-    * ``````https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050925.png``````
-
-        ![alttext](/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20050925.png)
 
 #### Fallen | Events | 05/14/25 - PVE - TBD
 * 05/09/25 - PVE - Wyvern / Named Farming.
@@ -101,8 +100,8 @@
             * This is a URL that goes to the `📅・sign-ups` text channel.
     * Event Info
         * Event Topic: PVE - Wyvern / Named Farming
-        * Start Date: 05/03/25 9:00 PM
-        * End Date: 05/04/25 12:00 AM
+        * Start Date: 05/14/25 9:00 PM
+        * End Date: 05/15/25 12:00 AM
         * Event Frequency: Does not repeat
         * Description:
             ```
@@ -117,11 +116,8 @@
             **Description:**
             TBD
             ```
-        * Cover Image: [```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20051425.png```](/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20051425.png)
+        * Cover Image: [`https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20051425.png`](/Images/Events/Fallen%20-%20Events%20-%20800x320%20-%20051425.png)
     * Review
         * Create Event
     * Miscellaneous
         * Event link: https://discord.com/events/943993242591064154/1369834071286353950
-    * ``````https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20051425.png``````
-
-        ![alttext](/Images/Events/Fallen%20-%20Event%20-%20800x320%20-%20051425.png)
