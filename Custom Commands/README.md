@@ -231,7 +231,7 @@
     * Write your message here!: N/A
     * Upload Avatar image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
     * Header: Fallen
-    * Title: Squire to Knight Promotion
+    * Title: Knight to Champion Promotion
     * Write your message here!:
         ```
         <@&943993242591064154>, please congratulate <@199393822143152129> and <@297889057524940800> on their promotion from **Knight** to **Champion**!
@@ -249,7 +249,7 @@
     * Write your message here!: N/A
     * Upload Avatar image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
     * Header: Fallen
-    * Title: Squire to Knight Promotion
+    * Title: Knight to Champion Promotion
     * Write your message here!:
         ```
         <@&943993242591064154>, please congratulate <@199393822143152129> and <@297889057524940800> on their promotion from **Knight** to **Champion**!
