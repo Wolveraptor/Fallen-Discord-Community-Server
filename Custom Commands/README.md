@@ -32,6 +32,8 @@
 * [Fallen | Custom Commands | !test-quire-to-knight-promotion - 05/08/25 – 4:08 PM EST](#fallen--custom-commands--test-quire-to-knight-promotion---050825--408-pm-est)
 * [Fallen | Custom Commands | !recognition-f-shack-award - 05/08/25 – 9:22 PM EST](#fallen--custom-commands--recognition-f-shack-award---050825--922-pm-est)
 * [Fallen | Custom Commands | !test-recognition-f-shack-award - 05/08/25 – 9:22 PM EST](#fallen--custom-commands--test-recognition-f-shack-award---050825--922-pm-est)
+* [Fallen | Custom Commands | !squire-to-knight-promotion - 05/09/25 – 9:57 PM EST](#fallen--custom-commands--squire-to-knight-promotion---050925--957-pm-est)
+* [Fallen | Custom Commands | !test-quire-to-knight-promotion - 05/09/25 – 9:57 PM EST](#fallen--custom-commands--test-quire-to-knight-promotion---050925--957-pm-est)
 
 #### Fallen | Custom Commands | Items to Note
 * Icons:
@@ -182,4 +184,40 @@
         ```
     * Upload Thumbnail image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png`
     * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Recognition%20-%20F-Shack%20Award.png`
+    * Footer: N/A
+
+#### Fallen | Custom Commands | !squire-to-knight-promotion - 05/09/25 – 9:57 PM EST
+* Custom Command: `!squire-to-knight-promotion`
+* Channel: `📢・guild-announcements`
+* Message to send:
+    * Write your message here!: N/A
+    * Upload Avatar image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+    * Header: Fallen
+    * Title: Squire to Knight Promotion
+    * Write your message here!:
+        ```
+        <@&943993242591064154>, please congratulate <@334776249597820938> on their promotion from **Squire** to **Knight**!
+
+        May your adventures be fun, your experience be bountiful, your loot plenty, and the F-shack lubricated!
+        ```
+    * Upload Thumbnail image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png`
+    * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Promotion%20-%20Squire%20to%20Knight.png`
+    * Footer: N/A
+
+#### Fallen | Custom Commands | !test-quire-to-knight-promotion - 05/09/25 – 9:57 PM EST
+* Custom Command: `!squire-to-knight-promotion`
+* Channel: `💬・mee6-custom-commands-testing`
+* Message to send:
+    * Write your message here!: N/A
+    * Upload Avatar image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+    * Header: Fallen
+    * Title: Squire to Knight Promotion
+    * Write your message here!:
+        ```
+        <@&943993242591064154>, please congratulate <@334776249597820938> on their promotion from **Squire** to **Knight**!
+
+        May your adventures be fun, your experience be bountiful, your loot plenty, and the F-shack lubricated!
+        ```
+    * Upload Thumbnail image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png`
+    * Upload Embed image: `https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Custom%20Commands/Fallen%20-%20Custom%20Commands%20-%20800x320%20-%20Promotion%20-%20Squire%20to%20Knight.png`
     * Footer: N/A
