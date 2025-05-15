@@ -122,11 +122,11 @@
 * [New Player Onboarding - The Fallen Guild - 051325.pdf](/Community%20Rules/New%20Player%20Onboarding%20-%20The%20Fallen%20Guild%20-%20051325.pdf)
 
 #### Fallen | Community Rules | New Player Onboarding - Fallen Guild - 051525
-🏰 NEW PLAYER ONBOARDING 🏰
+🏰 **NEW PLAYER ONBOARDING** 🏰
 
 ---
 
-🛡️ SPONSORSHIP & PROMOTION TO KNIGHT
+🛡️ **SPONSORSHIP & PROMOTION TO KNIGHT**
 
 As a `Squire`, it is your responsibility to seek out a sponsor if you wish to be promoted to `Knight`. This process begins with building relationships within the guild.
 * **Engage Actively**: Spend time socializing with fellow guild members. Join voice or text channels, participate in discussions, and make your presence known—especially on Discord.
@@ -136,7 +136,8 @@ As a `Squire`, it is your responsibility to seek out a sponsor if you wish to be
 
 ---
 
-🎁 GUILD LOOT POLICY
+🎁 **GUILD LOOT POLICY**
+
 **Non-Sanctioned Events (Casual Grouping)**:
 * Loot distribution is left to the discretion of the group. The guild does not enforce any loot rules in these cases.
 **Guild-Sanctioned Events (Raids & Major Activities)**:
@@ -160,6 +161,7 @@ As a `Squire`, it is your responsibility to seek out a sponsor if you wish to be
 ---
 
 📊 **ACTIVITY CHECKS**
+
 A monthly activity check is required to maintain good standing within the guild.
 * Conducted in the [`📅・activity-checks`](https://discord.com/channels/943993242591064154/1316451433305866240) channel at the end of each month.
 * Simply select the class of your `main character` to complete the check.
@@ -168,6 +170,7 @@ A monthly activity check is required to maintain good standing within the guild.
 ---
 
 📝 **EVENT SIGN-UPS**
+
 Guild events are held `Friday and Saturday at 9 PM Eastern` and posted in the [`📅・sign-ups`](https://discord.com/channels/943993242591064154/1354619698909548624) channel.
 * Sign up by selecting your `main character's class`.
 * Use the `TENTATIVE` or `LATE` options if you're unsure or arriving after the start time.
@@ -182,6 +185,7 @@ Guild events are held `Friday and Saturday at 9 PM Eastern` and posted in the [`
 ---
 
 ⚔️ **GUILD EVENT EXPECTATIONS**
+
 Regular participation in guild events is expected of all members.
 * Promotion from `Knight to Champion` requires consistent attendance and active participation.
 * Attendance is taken at both the `start and end` of events. Late arrivals or early departures will affect your record.
@@ -194,6 +198,7 @@ Regular participation in guild events is expected of all members.
 ---
 
 🧭 **REPRESENTING THE GUILD**
+
 All members are expected to represent `Fallen` with integrity and respect.
 * Treat both guildmates and other players with courtesy and respect.
 * Do `not` attempt to take over occupied camps or engage in disruptive behavior.
