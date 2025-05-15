@@ -6,7 +6,7 @@
 ## Fallen | About Embedded Messages
 * This README.md serves as documentation and changelog for the Fallen Discord community server embedded messages.
 
-![alttext](/Images/Server%20-%20Icon%20-%20Color%20Balance%20X2%20-%20Midtone%20Red%20-%20512x512%20-%20v3.png)
+![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
