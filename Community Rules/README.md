@@ -27,7 +27,8 @@
 <!-- omit from toc -->
 ### Fallen | Community Rules | Table of Contents
 * [Fallen | Community Rules | 04/22/25 - 8:55 PM EST](#fallen--community-rules--042225---855-pm-est)
-* [Fallen | Community Rules | New Player Onboarding - The Fallen - 043025](#fallen--community-rules--new-player-onboarding---the-fallen---043025)
+* [Fallen | Community Rules | New Player Onboarding PDFs](#fallen--community-rules--new-player-onboarding-pdfs)
+* [Fallen | Community Rules | New Player Onboarding - Fallen Guild - 051525](#fallen--community-rules--new-player-onboarding---fallen-guild---051525)
 
 #### Fallen | Community Rules | 04/22/25 - 8:55 PM EST
 * The below was taken from the `Welcome Channel` rules.
@@ -116,5 +117,94 @@
         * (SQUIRE) - Temporary Members that are being vetted for full membership based on how well they fit into the `<Fallen>` community.
         * (GUEST) - Friends of `<Fallen>`.
 
-#### Fallen | Community Rules | New Player Onboarding - The Fallen - 043025
+#### Fallen | Community Rules | New Player Onboarding PDFs
 * [New Player Onboarding - The Fallen Guild - 043025.pdf](/Community%20Rules/New%20Player%20Onboarding%20-%20The%20Fallen%20Guild%20-%20043025.pdf)
+* [New Player Onboarding - The Fallen Guild - 051325.pdf](/Community%20Rules/New%20Player%20Onboarding%20-%20The%20Fallen%20Guild%20-%20051325.pdf)
+
+#### Fallen | Community Rules | New Player Onboarding - Fallen Guild - 051525
+🏰 NEW PLAYER ONBOARDING 🏰
+
+---
+
+🛡️ SPONSORSHIP & PROMOTION TO KNIGHT
+
+As a `Squire`, it is your responsibility to seek out a sponsor if you wish to be promoted to `Knight`. This process begins with building relationships within the guild.
+* **Engage Actively**: Spend time socializing with fellow guild members. Join voice or text channels, participate in discussions, and make your presence known—especially on Discord.
+* **Group Up**: Grouping with guildmates is required for promotion. Take every opportunity to join parties, demonstrate your class skills, and show how you handle teamwork and challenging scenarios.
+* **Be Patient**: Promotion is based on experience and reputation. The more you engage and contribute, the more likely a Knight will sponsor your advancement.
+* **Attend Events**: Participation in guild events is a great way to build rapport and increase visibility among members.
+
+---
+
+🎁 GUILD LOOT POLICY
+**Non-Sanctioned Events (Casual Grouping)**:
+* Loot distribution is left to the discretion of the group. The guild does not enforce any loot rules in these cases.
+**Guild-Sanctioned Events (Raids & Major Activities)**:
+* Loot is distributed `at the end of the event`, except for `NO DROP` items.
+* **Priority for Loot Rolls**:
+    1. Full members ranked `Knight or higher` have first priority.
+    2. If no `Knights` roll, `Squires` may then roll.
+    3. If no `Squires` roll, loot becomes an `open greed roll` for all ranks.
+* **Roll Limitations**:
+    * You may win `1 NEED` and `1 GREED` roll per event.
+    * All rolls must be made in the [`#🎲・raid-loot-roll`](https://discord.com/channels/943993242591064154/1337966442544627813) channel using the `/roll limit:100` command.
+    * Only roll `when instructed by an officer`.
+        * SUGGEST ADDING LIST OF RANKS THAT ARE CONSIDERED OFFICERS. ONLY KING COUNCIL, CORRECT?
+        * NEED TO STANDARDIZE/USE COMMON VERBIAGE SO THAT AN ASSOCIATION IS AUTOMATICALLY MADE BETWEEN "OFFICER" AND "KING COUNCIL".
+    * `Do not loot items` until it is confirmed you have won.
+        * THEY CANNOT LOOT AT GUILD EVENTS ANYWAYS, RIGHT? THAT IS ALL DONE AT THE END. DOES IT MAKE THIS POINT REDUNDANT OR MAYBE IT SHOULD BE MOVED ELSEWHERE OR REMOVED?
+    * `Main Character Only`: `NEED` rolls are reserved for your `designated main character`. If you wish to roll for an alt, you must use a `GREED` roll or change your main through the proper process.
+        * IS IT WORTH EXPLAINING WHAT THE PROPER PROCESS IS TO CHANGE YOUR MAIN?
+        * MAY BE BENEFICIAL TO HAVE THAT SINCE IT IS REFERENCED IN THE POINT ABOVE.
+
+---
+
+📊 **ACTIVITY CHECKS**
+A monthly activity check is required to maintain good standing within the guild.
+* Conducted in the [`📅・activity-checks`](https://discord.com/channels/943993242591064154/1316451433305866240) channel at the end of each month.
+* Simply select the class of your `main character` to complete the check.
+* Please complete this check within a day or two of it being posted.
+
+---
+
+📝 **EVENT SIGN-UPS**
+Guild events are held `Friday and Saturday at 9 PM Eastern` and posted in the [`📅・sign-ups`](https://discord.com/channels/943993242591064154/1354619698909548624) channel.
+* Sign up by selecting your `main character's class`.
+* Use the `TENTATIVE` or `LATE` options if you're unsure or arriving after the start time.
+* Each event requires a new sign-up—don’t miss it!
+* Be fully prepared `before` the event:
+    * Know the event location and how to get there.
+    * Bring all required items (e.g., runes).
+    * Reach out to an officer ahead of time if you have questions or need assistance.
+        * SUGGEST ADDING LIST OF RANKS THAT ARE CONSIDERED OFFICERS. ONLY KING COUNCIL, CORRECT?
+        * NEED TO STANDARDIZE/USE COMMON VERBIAGE SO THAT AN ASSOCIATION IS AUTOMATICALLY MADE BETWEEN "OFFICER" AND "KING COUNCIL".
+
+---
+
+⚔️ **GUILD EVENT EXPECTATIONS**
+Regular participation in guild events is expected of all members.
+* Promotion from `Knight to Champion` requires consistent attendance and active participation.
+* Attendance is taken at both the `start and end` of events. Late arrivals or early departures will affect your record.
+* Follow the `raid leader’s instructions` at all times. Use voice communication only when necessary and relevant to the event.
+    * SUGGEST ADDING LIST OF RANKS THAT ARE CONSIDERED RAID LEADERS OR NAMED INDIVIDUALS. HELPS REMOVE AMBIGUITY.
+* Play your role responsibly:
+    * `Support roles` should maintain buffs and heals.
+    * `Debuffers and DPS` must follow assigned targets, especially those marked by the main assist.
+
+---
+
+🧭 **REPRESENTING THE GUILD**
+All members are expected to represent `Fallen` with integrity and respect.
+* Treat both guildmates and other players with courtesy and respect.
+* Do `not` attempt to take over occupied camps or engage in disruptive behavior.
+* If conflicts arise (e.g., kill-stealing, training), try to resolve them calmly. Contact an officer if needed.
+    * SUGGEST ADDING LIST OF RANKS THAT ARE CONSIDERED OFFICERS. ONLY KING COUNCIL, CORRECT?
+    * NEED TO STANDARDIZE/USE COMMON VERBIAGE SO THAT AN ASSOCIATION IS AUTOMATICALLY MADE BETWEEN "OFFICER" AND "KING COUNCIL".
+* While competition over camps is permitted by game policy, `griefing and training are not`. We will not tolerate bullying but always aim to de-escalate situations when possible.
+* While we will abide by the above rules, other guilds and groups may not. Should the need arise for us to respond to such behavior with ensuring that our guild is not bullied, escalate to an officer in order to call down the Wrath of the Fallen on the bullying userpers
+    * SUGGEST ADDING LIST OF RANKS THAT ARE CONSIDERED OFFICERS. ONLY KING COUNCIL, CORRECT?
+    * NEED TO STANDARDIZE/USE COMMON VERBIAGE SO THAT AN ASSOCIATION IS AUTOMATICALLY MADE BETWEEN "OFFICER" AND "KING COUNCIL".
+
+---
+
+Welcome to `Fallen`. Your journey with us is what you make of it—be active, be respectful, and rise through the ranks with honor.
