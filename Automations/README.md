@@ -6,7 +6,7 @@
 ## Fallen | About Automations
 * This README.md serves as documentation and changelog for the Fallen Discord community server automations.
 
-![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20545x390.png)
+![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
