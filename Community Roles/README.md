@@ -12,6 +12,7 @@
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
+* [Fallen Discord Community Server - README.md](/README.md)
 * [Automations - README.md](/Automations/README.md)
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
