@@ -7,6 +7,7 @@
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
 ### Fallen | Table of Contents
+* [Fallen Discord Community Server - README.md](/README.md)
 * [Automations - README.md](/Automations/README.md)
 * [Bad Words - README.md](/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
