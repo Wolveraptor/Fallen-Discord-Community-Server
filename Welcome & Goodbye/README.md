@@ -1,10 +1,10 @@
 <!-- omit from toc -->
-# Fallen | Welcome and Goodbye Message
-* `Fallen` Discord community server `MEE6` `Welcome and Goodbye Message`.
+# Fallen | Welcome & Goodbye
+* `Fallen` Discord community server `MEE6` `Welcome & Goodbye`.
 
 <!-- omit from toc -->
-## Fallen | About Welcome and Goodbye Message
-* This README.md serves as documentation and changelog for the `MEE6` plug-in `Welcome and Goodbye Message` for the `Fallen` Discord community server.
+## Fallen | About Welcome & Goodbye
+* This README.md serves as documentation and changelog for the `MEE6` plug-in `Welcome & Goodbye` for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
@@ -19,20 +19,22 @@
 * [Custom Commands - README.md](/Custom%20Commands/README.md)
 * [Embedded Messages - README.md](/Embedded%20Messages/README.md)
 * [Events - README.md](/Events/README.md)
+* [Help - README.md](/Help/README.md)
+* [Moderator - README.md](/Moderator/README.md)
 * [Images](/Images/)
 * [Reaction Roles - README.md](/Reaction%20Roles/README.md)
 * [Ticketing - README.md](/Ticketing/README.md)
-* [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
+* [Welcome & Goodbye - README.md](/Welcome%20&%20Goodbye/README.md)
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
 <!-- omit from toc -->
-### Fallen | Welcome and Goodbye Message | Table of Contents
-* [Fallen | Welcome and Goodbye Message | Welcome Message - 04/25/25 - 8:38 PM EST](#fallen--welcome-and-goodbye-message--welcome-message---042525---838-pm-est)
-* [Fallen | Welcome and Goodbye Message | Goodbye Message - 04/25/25 - 8:38 PM EST](#fallen--welcome-and-goodbye-message--goodbye-message---042525---838-pm-est)
-* [Fallen | Welcome and Goodbye Message | Welcome Message - 05/08/25 - 7:31 PM EST](#fallen--welcome-and-goodbye-message--welcome-message---050825---731-pm-est)
-* [Fallen | Welcome and Goodbye Message | Welcome Message - 05/08/25 - 7:51 PM EST](#fallen--welcome-and-goodbye-message--welcome-message---050825---751-pm-est)
+### Fallen | Welcome & Goodbye | Table of Contents
+* [Fallen | Welcome \& Goodbye | Welcome Message - 04/25/25 - 8:38 PM EST](#fallen--welcome--goodbye--welcome-message---042525---838-pm-est)
+* [Fallen | Welcome \& Goodbye | Goodbye Message - 04/25/25 - 8:38 PM EST](#fallen--welcome--goodbye--goodbye-message---042525---838-pm-est)
+* [Fallen | Welcome \& Goodbye | Welcome Message - 05/08/25 - 7:31 PM EST](#fallen--welcome--goodbye--welcome-message---050825---731-pm-est)
+* [Fallen | Welcome \& Goodbye | Welcome Message - 05/08/25 - 7:51 PM EST](#fallen--welcome--goodbye--welcome-message---050825---751-pm-est)
 
-#### Fallen | Welcome and Goodbye Message | Welcome Message - 04/25/25 - 8:38 PM EST
+#### Fallen | Welcome & Goodbye | Welcome Message - 04/25/25 - 8:38 PM EST
 ```
 Hey {user.mention} ({user.id}), welcome to **{server.name}**!
 
@@ -45,7 +47,7 @@ Enjoy your time here at **{server.name}**, **{user.name}**!
 The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has joined **{server.name}**.
 ```
 
-#### Fallen | Welcome and Goodbye Message | Goodbye Message - 04/25/25 - 8:38 PM EST
+#### Fallen | Welcome & Goodbye | Goodbye Message - 04/25/25 - 8:38 PM EST
 ```
 We hope you enjoyed your time at **{server.name}**, **{user.name}**!
 
@@ -54,7 +56,7 @@ Until next time.
 The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has left **{server.name}**.
 ```
 
-#### Fallen | Welcome and Goodbye Message | Welcome Message - 05/08/25 - 7:31 PM EST
+#### Fallen | Welcome & Goodbye | Welcome Message - 05/08/25 - 7:31 PM EST
 ```
 Hey {user.mention} ({user.id}), welcome to **{server.name}**!
 
@@ -67,7 +69,7 @@ Enjoy your time here at **{server.name}**, **{user.name}**!
 The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has joined **{server.name}**.
 ```
 
-#### Fallen | Welcome and Goodbye Message | Welcome Message - 05/08/25 - 7:51 PM EST
+#### Fallen | Welcome & Goodbye | Welcome Message - 05/08/25 - 7:51 PM EST
 ```
 Hey {user.mention} ({user.id}), welcome to **{server.name}**!
 
