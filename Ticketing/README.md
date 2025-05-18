@@ -1,10 +1,10 @@
 <!-- omit from toc -->
 # Fallen | Ticketing
-* Fallen Discord community server ticketing.
+* `Fallen` Discord community server `MEE6` `Ticketing`.
 
 <!-- omit from toc -->
 ## Fallen | About Ticketing
-* This README.md serves as documentation and changelog for the Fallen Discord community server ticketing.
+* This README.md serves as documentation and changelog for the `MEE6` plug-in `Ticketing` for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
