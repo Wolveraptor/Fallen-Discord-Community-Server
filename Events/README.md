@@ -1,10 +1,10 @@
 <!-- omit from toc -->
 # Fallen | Events
-* Fallen Discord community server embedded messages.
+* `Fallen` Discord community server `Events`.
 
 <!-- omit from toc -->
 ## Fallen | About Events
-* This README.md serves as documentation and changelog for the Fallen Discord community server events.
+* This README.md serves as documentation and changelog for the `Events` for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
@@ -26,7 +26,7 @@
 * [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
 <!-- omit from toc -->
-### Fallen | Embedded Messages | Table of Contents
+### Fallen | Events | Table of Contents
 * [Fallen | Events | Items to Note](#fallen--events--items-to-note)
 * [Fallen | Events | 05/03/25 - PVE - Wyvern / Named Farming](#fallen--events--050325---pve---wyvern--named-farming)
 * [Fallen | Events | 05/09/25 - PVE - EXP / FARM](#fallen--events--050925---pve---exp--farm)
