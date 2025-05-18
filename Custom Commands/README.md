@@ -1,10 +1,10 @@
 <!-- omit from toc -->
 # Fallen | Custom Commands
-* Fallen Discord community server custom commands.
+* `Fallen` Discord community server `MEE6` `Custom Commands`.
 
 <!-- omit from toc -->
 ## Fallen | About Custom Commands
-* This README.md serves as documentation and changelog for the Fallen Discord community server custom commands.
+* This README.md serves as documentation and changelog for the `MEE6` plug-in `Custom Commands` for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
