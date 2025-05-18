@@ -1,10 +1,10 @@
 <!-- omit from toc -->
 # Fallen | Bad Words
-* Fallen Discord community server bad words.
+* `Fallen` Discord community server `Bad Words`.
 
 <!-- omit from toc -->
 ## Fallen | About Bad Words
-* This README.md serves as documentation and changelog for the Fallen Discord community server bad words.
+* This README.md serves as documentation and changelog for the `Bad Words` for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
