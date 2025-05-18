@@ -1,8 +1,8 @@
 # Fallen | Discord Community Server
-* Fallen Discord community server GitHub repository.
+* `Fallen` Discord community server GitLab repository.
 
 ## Fallen | About this Repository
-* This is Fallen's repository for storing information and configurations for the Fallen Discord community server.
+* This repository is used for storing information, configurations, and changelogs for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
