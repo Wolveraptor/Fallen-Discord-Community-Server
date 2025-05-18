@@ -1,10 +1,10 @@
 <!-- omit from toc -->
 # Fallen | Community Roles
-* Fallen Discord community server roles.
+* `Fallen` Discord community server `Community Roles`.
 
 <!-- omit from toc -->
 ## Fallen | About Community Roles
-* This README.md serves as documentation and changelog for the Fallen Discord community server community roles.
+* This README.md serves as documentation and changelog for the `Community Roles` for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
