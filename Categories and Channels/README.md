@@ -1,10 +1,10 @@
 <!-- omit from toc -->
 # Fallen | Categories and Channels
-* Fallen Discord community server categories and channels.
+* `Fallen` Discord community server `Categories and Channels`.
 
 <!-- omit from toc -->
 ## Fallen | About Categories and Channels
-* This README.md serves as documentation and changelog for the Fallen Discord community server categories and channels.
+* This README.md serves as documentation and changelog for the `Categories and Channels` for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
