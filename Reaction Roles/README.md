@@ -1,10 +1,10 @@
 <!-- omit from toc -->
 # Fallen | Reaction Roles
-* Fallen Discord community server reaction roles.
+* `Fallen` Discord community server `MEE6` `Reaction Roles`.
 
 <!-- omit from toc -->
 ## Fallen | About Reaction Roles
-* This README.md serves as documentation and changelog for the Fallen Discord community server reaction roles.
+* This README.md serves as documentation and changelog for the `MEE6` plug-in `Reaction Roles` for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
