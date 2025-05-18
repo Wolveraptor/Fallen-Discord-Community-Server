@@ -1,10 +1,10 @@
 <!-- omit from toc -->
 # Fallen | Welcome Channel
-* Fallen Discord community server welcome channel.
+* `Fallen` Discord community server `MEE6` `Welcome Channel`.
 
 <!-- omit from toc -->
 ## Fallen | About Welcome Channel
-* This README.md serves as documentation and changelog for the Fallen Discord community server welcome channel.
+* This README.md serves as documentation and changelog for the `MEE6` plug-in `Welcome Channel` for the `Fallen` Discord community server.
 
 ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
 
