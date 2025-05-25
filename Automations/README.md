@@ -33,6 +33,8 @@
 * [Fallen | Automations | raid-loot-roll -  Squire Sends Message - Delete and Inform - 05/14/25 – 10:25 PM EST](#fallen--automations--raid-loot-roll----squire-sends-message---delete-and-inform---051425--1025-pm-est)
 * [Fallen | Automations | raid-loot-roll -  Squire Sends Image and Message - Delete and Inform - 05/14/25 – 10:25 PM EST](#fallen--automations--raid-loot-roll----squire-sends-image-and-message---delete-and-inform---051425--1025-pm-est)
 * [Fallen | Automations | raid-loot-roll -  Squire Sends Image - Delete and Inform - 05/14/25 – 10:25 PM EST](#fallen--automations--raid-loot-roll----squire-sends-image---delete-and-inform---051425--1025-pm-est)
+* [Fallen | Automations | Gains a Role - PVP Guest - 05/25/25 – 9:41 PM EST](#fallen--automations--gains-a-role---pvp-guest---052525--941-pm-est)
+* [Fallen | Automations | Gains a Role - PVE Guest - 05/25/25 – 9:41 PM EST](#fallen--automations--gains-a-role---pve-guest---052525--941-pm-est)
 
 #### Fallen | Automations | DISABLED - raid-loot-roll "/roll" and "/roll limit:100" Correction - 05/04/25 – 3:11 PM EST
 * When Someone:
@@ -137,4 +139,54 @@
             Please limit your messages to only `/roll limit:100` to roll for loot.
 
             Note: Only the <@&1184163679034429460>, <@&1184165070016610404>, <@&1372013033475539034>, <@&1297404589989171271>,  <@&1184166231205490699>, and <@&1184166555815256095>, roles can post images in this channel.
+            ```
+
+#### Fallen | Automations | Gains a Role - PVP Guest - 05/25/25 – 9:41 PM EST
+* When Someone:
+    * Trigger:
+        * Gains a role
+* Conditions:
+    * If:
+        * The user has one of these roles
+            * Roles: `PVE Guest`
+    * And:
+        * The user gained one of these roles
+            * Roles: `PVP Guest`
+* Do This:
+    * Take these roles from the user
+        * Roles: `PVE Guest`
+    * Send a message
+        * Channel: `📖・mee6-automations-gains-a-role-pvp-guest`
+        * Message:
+            ```
+            The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has either removed the <@&1361494731758239764> role themselves or had it removed from them by a member of the <@&1184165070016610404> or <@&1184163679034429460> group.
+
+            As a result of the <@&1361494731758239764> role being removed, they have had the <@&1184167539215978656> role removed as well.
+
+            Reminder, a user **CANNOT** have both the <@&1361494731758239764> and <@&1184167539215978656> roles! They are permitted to have one or the other.
+            ```
+
+#### Fallen | Automations | Gains a Role - PVE Guest - 05/25/25 – 9:41 PM EST
+* When Someone:
+    * Trigger:
+        * Gains a role
+* Conditions:
+    * If:
+        * The user has one of these roles
+            * Roles: `PVP Guest`
+    * And:
+        * The user gained one of these roles
+            * Roles: `PVE Guest`
+* Do This:
+    * Take these roles from the user
+        * Roles: `PVP Guest`
+    * Send a message
+        * Channel: `📖・mee6-automations-gains-a-role-pve-guest`
+        * Message:
+            ```
+            The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has either removed the <@&1184167539215978656> role themselves or had it removed from them by a member of the <@&1184165070016610404> or <@&1184163679034429460> group.
+
+            As a result of the <@&1184167539215978656> role being removed, they have had the <@&1361494731758239764> role removed as well.
+
+            Reminder, a user **CANNOT** have both the <@&1184167539215978656> and <@&1361494731758239764> roles! They are permitted to have one or the other.
             ```
