@@ -6,7 +6,7 @@
 ## Fallen | About Welcome Channel
 * This README.md serves as documentation and changelog for the `MEE6` plug-in `Welcome Channel` for the `Fallen` Discord community server.
 
-![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
+![Fallen Discord Community Server](https://forgejo.cybersanctuary.xyz/ssimon/Fallen-Discord-Community-Server/raw/branch/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
@@ -74,7 +74,7 @@
     * Fallen - Server Icon - 949x969
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 
-        ![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
+        ![Fallen Discord Community Server](https://forgejo.cybersanctuary.xyz/ssimon/Fallen-Discord-Community-Server/raw/branch/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
     * Fallen - Server Invite Background - 545x390
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
@@ -90,7 +90,7 @@
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png```
 
         ![alttext](/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
-    
+
     * Fallen - Welcome Channel - 3 - 545x545
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 
@@ -110,7 +110,7 @@
         ```
         Welcome to < Fallen >
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         We are proud to have you joining our ranks...This guild is made up of likeminded individuals who specialize in exploration, level grinding, dungeon crawling, crafting, gear camping, raiding, and most of all having a good time. We are not casual, we are not elitists, we are both at the same time or neither at all. This guild is a mixture and that's how we like it!
 
@@ -131,13 +131,13 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         RULES:
 
 
         GENERAL:
-        - Conduct yourself in a respectful manner. 
+        - Conduct yourself in a respectful manner.
         - Feel free to share your thoughts and to disagree but be respectful and keep our house stress free.
         - Don't be divisive. Any differences we have as people must be left at the door. In this house we are all < Fallen> and that is all that matters.
 
@@ -168,7 +168,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         NORMAL GROUP/MULTI GROUP SESSIONS
         - OVERVIEW: A normal group or multi-group session is a more spontaneous and less formalized gathering of players. These sessions can involve friends, acquaintances, or random players who come together to achieve a common goal.
@@ -181,12 +181,12 @@
         - Completing quests.
         - Farming specific items or resources.
         - Defeating bosses.
-        3. PARTICIPATION: These groups can include anyone, from friends and guild members to random players found through the game's matchmaking system. 
+        3. PARTICIPATION: These groups can include anyone, from friends and guild members to random players found through the game's matchmaking system.
 
 
 
         - LOOT HANDLING AND DISTRIBUTION:
-        1. LOOT: Loot is handled by the group that is there. 
+        1. LOOT: Loot is handled by the group that is there.
         Informal Agreements: Players might make informal agreements about loot distribution, like agreeing to pass on certain items or trade loot after the session.
         2. LESS REGULATIONS: There’s typically less regulation and oversight compared to guild events, which can sometimes lead to disputes or uneven distribution.
         ```
@@ -195,7 +195,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES:
         - LOOT SYSTEM OVERVIEW
@@ -216,7 +216,7 @@
         PRIORITY RULES
         - PRIORITY RULES OVERVIEW:
 
-        1. VETERAN PRIORITY: Players who have been actively participating in the group longer and contributing to the grind for the item have priority. 
+        1. VETERAN PRIORITY: Players who have been actively participating in the group longer and contributing to the grind for the item have priority.
         - (Veteran players will roll first): (THIS IS FOR GUILD GROUPS ONLY, NOT RAIDS OR PUGS, AND SHOULD BE COMMUNICATED IF ANYTHING SPECIFIC IS BEING FARMED/CAMPED)
         - (Newcomers Roll Last): Newcomers or those who joined the raid recently can roll only after the veteran players have rolled and had their chance at the item. (THIS IS FOR GUILD GROUPS ONLY, NOT RAIDS OR PUGS, AND SHOULD BE COMMUNICATED IF ANYTHING SPECIFIC IS BEING FARMED/CAMPED)
         2. MAINS OVER ALTS: Main characters (mains) have priority over alternate characters (alts). Alts can roll Need only if no mains roll Need for the item.
@@ -226,7 +226,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES (Continued)
         - HANDLING OF LOOT DISPUTES:
@@ -249,7 +249,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         GUILD MEMBER PROMOTION PROCESS: (SQUIRE to KNIGHT)
         -RECRUITMENT AND SPONSORSHIP
@@ -257,7 +257,7 @@
         - Identify Potential Recruits: Guild members can suggest new players who show promise and interest in joining the guild.
         - Invitation to Discord: Ensure any player who wishes to join <Fallen>, first receives an invite to discord, matches their discord name to their main character name in game, reads and accepts the #welcome-rules
         , finds a sponsor and updates their sponsorship in #guild-roster
-        ...(PRIOR TO RECIEVING A GUILD TAG IN GAME) 
+        ...(PRIOR TO RECIEVING A GUILD TAG IN GAME)
         2. SPONSORSHIP ( 1 SQUIRE PER MEMBER)
         - Initial Assessment: Conduct an informal assessment of the recruit's skills, behavior, and compatibility with the guild's values and objectives.
 
@@ -265,21 +265,21 @@
         - Sponsorship Period: (NO PREDETERMINED TIME FRAME) The sponsor and recruit should regularly play together during a designated sponsorship period. During this time, the sponsor assesses the recruit's suitability for full membership.
         - Sponsors should witness their Squire attend at least 1 guild event:  and determine if they were able to maintain comms discipline during the event, determine if they were able to follow instructions, and witness their level of participation during the event.
         3. PROMOTION: (To full membership AKA" KNIGHT)
-        - Sponsors: To bring your squire to the rank of Knight and gain them full membership into the guild you must speak to a KING (Grizzle, Asharak, or Swatmedic) and be prepared to vouch for your squire's guild activity, attitude, willingness to help the guild and its members, and overall fitness to be a member of <FALLEN>. 
-        - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings. 
+        - Sponsors: To bring your squire to the rank of Knight and gain them full membership into the guild you must speak to a KING (Grizzle, Asharak, or Swatmedic) and be prepared to vouch for your squire's guild activity, attitude, willingness to help the guild and its members, and overall fitness to be a member of <FALLEN>.
+        - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 9. Image Embed
     * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
-    * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```        
+    * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 10. Text Embed
     * "Write your mesage here..." (Title):
         ```
         GUILD ROLES:
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         Guild Roles and what they mean to < Fallen >:
-        - (3 KING) - Guild Masters are all responsible for overseeing guild functions and activities, Maintaining the Guild Bank/ Roster/ and Discord and enforcing guild rules as they pertain to member representation of the guild, loot distribution during guild events, rank promotions and guild removals, and any other decisions that have to be made pertaining to the guild. 
+        - (3 KING) - Guild Masters are all responsible for overseeing guild functions and activities, Maintaining the Guild Bank/ Roster/ and Discord and enforcing guild rules as they pertain to member representation of the guild, loot distribution during guild events, rank promotions and guild removals, and any other decisions that have to be made pertaining to the guild.
         - (5 KING COUNCIL) - Trusted circle with several responsibilities which include but are not limited to providing (CONSTRUCTIVE) feedback to the (3 Kings), Enforcing guild rules, interacting with guild members and providing guidance, and voting on any items brought to them by the (3 Kings) when decisions have to be made that pertain to the entire guild. These members should have the potential to replace a member of the (3 Kings) if needed.
         - (ELDER) - Trusted members that take on special tasks or responsibilities and show potential to become a member of the King Council in the future:
         - CHAMPION - Proven Members that are a part of the core raid group. (This does not mean you can't raid if you are not a champion)
@@ -297,7 +297,7 @@
         ```
         Welcome to < Fallen >
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         We are proud to have you joining our ranks...This guild is made up of likeminded individuals who specialize in exploration, level grinding, dungeon crawling, crafting, gear camping, raiding, and most of all having a good time. We are not casual, we are not elitists, we are both at the same time or neither at all. This guild is a mixture and that's how we like it!
 
@@ -316,13 +316,13 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         RULES:
 
 
         GENERAL:
-        - Conduct yourself in a respectful manner. 
+        - Conduct yourself in a respectful manner.
         - Feel free to share your thoughts and to disagree but be respectful and keep our house stress free.
         - Don't be divisive. Any differences we have as people must be left at the door. In this house we are all < Fallen> and that is all that matters.
 
@@ -353,7 +353,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         NORMAL GROUP/MULTI GROUP SESSIONS
         - OVERVIEW: A normal group or multi-group session is a more spontaneous and less formalized gathering of players. These sessions can involve friends, acquaintances, or random players who come together to achieve a common goal.
@@ -366,12 +366,12 @@
         - Completing quests.
         - Farming specific items or resources.
         - Defeating bosses.
-        3. PARTICIPATION: These groups can include anyone, from friends and guild members to random players found through the game's matchmaking system. 
+        3. PARTICIPATION: These groups can include anyone, from friends and guild members to random players found through the game's matchmaking system.
 
 
 
         - LOOT HANDLING AND DISTRIBUTION:
-        1. LOOT: Loot is handled by the group that is there. 
+        1. LOOT: Loot is handled by the group that is there.
         Informal Agreements: Players might make informal agreements about loot distribution, like agreeing to pass on certain items or trade loot after the session.
         2. LESS REGULATIONS: There’s typically less regulation and oversight compared to guild events, which can sometimes lead to disputes or uneven distribution.
         ```
@@ -380,7 +380,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES:
         - LOOT SYSTEM OVERVIEW
@@ -401,7 +401,7 @@
         PRIORITY RULES
         - PRIORITY RULES OVERVIEW:
 
-        1. VETERAN PRIORITY: Players who have been actively participating in the group longer and contributing to the grind for the item have priority. 
+        1. VETERAN PRIORITY: Players who have been actively participating in the group longer and contributing to the grind for the item have priority.
         - (Veteran players will roll first): (THIS IS FOR GUILD GROUPS ONLY, NOT RAIDS OR PUGS, AND SHOULD BE COMMUNICATED IF ANYTHING SPECIFIC IS BEING FARMED/CAMPED)
         - (Newcomers Roll Last): Newcomers or those who joined the raid recently can roll only after the veteran players have rolled and had their chance at the item. (THIS IS FOR GUILD GROUPS ONLY, NOT RAIDS OR PUGS, AND SHOULD BE COMMUNICATED IF ANYTHING SPECIFIC IS BEING FARMED/CAMPED)
         2. MAINS OVER ALTS: Main characters (mains) have priority over alternate characters (alts). Alts can roll Need only if no mains roll Need for the item.
@@ -411,7 +411,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES (Continued)
         - HANDLING OF LOOT DISPUTES:
@@ -434,7 +434,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         GUILD MEMBER PROMOTION PROCESS: (SQUIRE to KNIGHT)
         -RECRUITMENT AND SPONSORSHIP
@@ -442,7 +442,7 @@
         - Identify Potential Recruits: Guild members can suggest new players who show promise and interest in joining the guild.
         - Invitation to Discord: Ensure any player who wishes to join <Fallen>, first receives an invite to discord, matches their discord name to their main character name in game, reads and accepts the #welcome-rules
         , finds a sponsor and updates their sponsorship in #guild-roster
-        ...(PRIOR TO RECIEVING A GUILD TAG IN GAME) 
+        ...(PRIOR TO RECIEVING A GUILD TAG IN GAME)
         2. SPONSORSHIP ( 1 SQUIRE PER MEMBER)
         - Initial Assessment: Conduct an informal assessment of the recruit's skills, behavior, and compatibility with the guild's values and objectives.
 
@@ -450,21 +450,21 @@
         - Sponsorship Period: (NO PREDETERMINED TIME FRAME) The sponsor and recruit should regularly play together during a designated sponsorship period. During this time, the sponsor assesses the recruit's suitability for full membership.
         - Sponsors should witness their Squire attend at least 1 guild event:  and determine if they were able to maintain comms discipline during the event, determine if they were able to follow instructions, and witness their level of participation during the event.
         3. PROMOTION: (To full membership AKA" KNIGHT)
-        - Sponsors: To bring your squire to the rank of Knight and gain them full membership into the guild you must speak to a KING (Grizzle, Asharak, or Swatmedic) and be prepared to vouch for your squire's guild activity, attitude, willingness to help the guild and its members, and overall fitness to be a member of <FALLEN>. 
-        - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings. 
+        - Sponsors: To bring your squire to the rank of Knight and gain them full membership into the guild you must speak to a KING (Grizzle, Asharak, or Swatmedic) and be prepared to vouch for your squire's guild activity, attitude, willingness to help the guild and its members, and overall fitness to be a member of <FALLEN>.
+        - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 9. Image Embed
     * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
-    * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```        
+    * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 10. Text Embed
     * "Write your mesage here..." (Title):
         ```
         GUILD ROLES:
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         Guild Roles and what they mean to < Fallen >:
-        - (3 KING) - Guild Masters are all responsible for overseeing guild functions and activities, Maintaining the Guild Bank/ Roster/ and Discord and enforcing guild rules as they pertain to member representation of the guild, loot distribution during guild events, rank promotions and guild removals, and any other decisions that have to be made pertaining to the guild. 
+        - (3 KING) - Guild Masters are all responsible for overseeing guild functions and activities, Maintaining the Guild Bank/ Roster/ and Discord and enforcing guild rules as they pertain to member representation of the guild, loot distribution during guild events, rank promotions and guild removals, and any other decisions that have to be made pertaining to the guild.
         - (5 KING COUNCIL) - Trusted circle with several responsibilities which include but are not limited to providing (CONSTRUCTIVE) feedback to the (3 Kings), Enforcing guild rules, interacting with guild members and providing guidance, and voting on any items brought to them by the (3 Kings) when decisions have to be made that pertain to the entire guild. These members should have the potential to replace a member of the (3 Kings) if needed.
         - (ELDER) - Trusted members that take on special tasks or responsibilities and show potential to become a member of the King Council in the future:
         - CHAMPION - Proven Members that are a part of the core raid group. (This does not mean you can't raid if you are not a champion)
@@ -482,7 +482,7 @@
         ```
         Welcome to <Fallen>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         We are proud to have you joining our ranks...This guild is made up of likeminded individuals who specialize in exploration, level grinding, dungeon crawling, crafting, gear camping, raiding, and most of all having a good time. We are not casual, we are not elitists, we are both at the same time or neither at all. This guild is a mixture and that's how we like it!
 
@@ -501,11 +501,11 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         RULES:
         GENERAL:
-        - Conduct yourself in a respectful manner. 
+        - Conduct yourself in a respectful manner.
         - Feel free to share your thoughts and to disagree but be respectful and keep our house stress free.
         - Don't be divisive. Any differences we have as people must be left at the door. In this house we are all < Fallen> and that is all that matters.
 
@@ -530,7 +530,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         NORMAL GROUP/MULTI GROUP SESSIONS
         - OVERVIEW: A normal group or multi-group session is a more spontaneous and less formalized gathering of players. These sessions can involve friends, acquaintances, or random players who come together to achieve a common goal.
@@ -551,7 +551,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES:
         - LOOT SYSTEM OVERVIEW
@@ -580,7 +580,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES (Continued)
         - HANDLING OF LOOT DISPUTES:
@@ -601,7 +601,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         GUILD MEMBER PROMOTION PROCESS: (SQUIRE to KNIGHT)
         - RECRUITMENT AND SPONSORSHIP
@@ -619,13 +619,13 @@
         ```
 9. Image Embed
     * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
-    * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```        
+    * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 10. Text Embed
     * "Write your mesage here..." (Title):
         ```
         GUILD ROLES:
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         Guild Roles and what they mean to < Fallen >:
         - (3 KING) - Guild Masters are all responsible for overseeing guild functions and activities, Maintaining the Guild Bank/ Roster/ and Discord and enforcing guild rules as they pertain to member representation of the guild, loot distribution during guild events, rank promotions and guild removals, and any other decisions that have to be made pertaining to the guild.
@@ -646,7 +646,7 @@
         ```
         Welcome to < Fallen >
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         We are proud to have you joining our ranks...This guild is made up of likeminded individuals who specialize in exploration, level grinding, dungeon crawling, crafting, gear camping, raiding, and most of all having a good time. We are not casual, we are not elitists, we are both at the same time or neither at all. This guild is a mixture and that's how we like it!
 
@@ -665,13 +665,13 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         RULES:
 
 
         GENERAL:
-        - Conduct yourself in a respectful manner. 
+        - Conduct yourself in a respectful manner.
         - Feel free to share your thoughts and to disagree but be respectful and keep our house stress free.
         - Don't be divisive. Any differences we have as people must be left at the door. In this house we are all < Fallen> and that is all that matters.
 
@@ -702,7 +702,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         NORMAL GROUP/MULTI GROUP SESSIONS
         - OVERVIEW: A normal group or multi-group session is a more spontaneous and less formalized gathering of players. These sessions can involve friends, acquaintances, or random players who come together to achieve a common goal.
@@ -715,12 +715,12 @@
         - Completing quests.
         - Farming specific items or resources.
         - Defeating bosses.
-        3. PARTICIPATION: These groups can include anyone, from friends and guild members to random players found through the game's matchmaking system. 
+        3. PARTICIPATION: These groups can include anyone, from friends and guild members to random players found through the game's matchmaking system.
 
 
 
         - LOOT HANDLING AND DISTRIBUTION:
-        1. LOOT: Loot is handled by the group that is there. 
+        1. LOOT: Loot is handled by the group that is there.
         Informal Agreements: Players might make informal agreements about loot distribution, like agreeing to pass on certain items or trade loot after the session.
         2. LESS REGULATIONS: There’s typically less regulation and oversight compared to guild events, which can sometimes lead to disputes or uneven distribution.
         ```
@@ -729,7 +729,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES:
         - LOOT SYSTEM OVERVIEW
@@ -750,7 +750,7 @@
         PRIORITY RULES
         - PRIORITY RULES OVERVIEW:
 
-        1. VETERAN PRIORITY: Players who have been actively participating in the group longer and contributing to the grind for the item have priority. 
+        1. VETERAN PRIORITY: Players who have been actively participating in the group longer and contributing to the grind for the item have priority.
         - (Veteran players will roll first): (THIS IS FOR GUILD GROUPS ONLY, NOT RAIDS OR PUGS, AND SHOULD BE COMMUNICATED IF ANYTHING SPECIFIC IS BEING FARMED/CAMPED)
         - (Newcomers Roll Last): Newcomers or those who joined the raid recently can roll only after the veteran players have rolled and had their chance at the item. (THIS IS FOR GUILD GROUPS ONLY, NOT RAIDS OR PUGS, AND SHOULD BE COMMUNICATED IF ANYTHING SPECIFIC IS BEING FARMED/CAMPED)
         2. MAINS OVER ALTS: Main characters (mains) have priority over alternate characters (alts). Alts can roll Need only if no mains roll Need for the item.
@@ -760,7 +760,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES (Continued)
         - HANDLING OF LOOT DISPUTES:
@@ -783,7 +783,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         GUILD MEMBER PROMOTION PROCESS: (SQUIRE to KNIGHT)
         -RECRUITMENT AND SPONSORSHIP
@@ -791,7 +791,7 @@
         - Identify Potential Recruits: Guild members can suggest new players who show promise and interest in joining the guild.
         - Invitation to Discord: Ensure any player who wishes to join <Fallen>, first receives an invite to discord, matches their discord name to their main character name in game, reads and accepts the #welcome-rules
         , finds a sponsor and updates their sponsorship in #guild-roster
-        ...(PRIOR TO RECIEVING A GUILD TAG IN GAME) 
+        ...(PRIOR TO RECIEVING A GUILD TAG IN GAME)
         2. SPONSORSHIP ( 1 SQUIRE PER MEMBER)
         - Initial Assessment: Conduct an informal assessment of the recruit's skills, behavior, and compatibility with the guild's values and objectives.
 
@@ -799,21 +799,21 @@
         - Sponsorship Period: (NO PREDETERMINED TIME FRAME) The sponsor and recruit should regularly play together during a designated sponsorship period. During this time, the sponsor assesses the recruit's suitability for full membership.
         - Sponsors should witness their Squire attend at least 1 guild event:  and determine if they were able to maintain comms discipline during the event, determine if they were able to follow instructions, and witness their level of participation during the event.
         3. PROMOTION: (To full membership AKA" KNIGHT)
-        - Sponsors: To bring your squire to the rank of Knight and gain them full membership into the guild you must speak to a KING (Grizzle, Asharak, or Swatmedic) and be prepared to vouch for your squire's guild activity, attitude, willingness to help the guild and its members, and overall fitness to be a member of <FALLEN>. 
-        - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings. 
+        - Sponsors: To bring your squire to the rank of Knight and gain them full membership into the guild you must speak to a KING (Grizzle, Asharak, or Swatmedic) and be prepared to vouch for your squire's guild activity, attitude, willingness to help the guild and its members, and overall fitness to be a member of <FALLEN>.
+        - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 9. Image Embed
     * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
-    * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```        
+    * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 10. Text Embed
     * "Write your mesage here..." (Title):
         ```
         GUILD ROLES:
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         Guild Roles and what they mean to < Fallen >:
-        - (3 KING) - Guild Masters are all responsible for overseeing guild functions and activities, Maintaining the Guild Bank/ Roster/ and Discord and enforcing guild rules as they pertain to member representation of the guild, loot distribution during guild events, rank promotions and guild removals, and any other decisions that have to be made pertaining to the guild. 
+        - (3 KING) - Guild Masters are all responsible for overseeing guild functions and activities, Maintaining the Guild Bank/ Roster/ and Discord and enforcing guild rules as they pertain to member representation of the guild, loot distribution during guild events, rank promotions and guild removals, and any other decisions that have to be made pertaining to the guild.
         - (5 KING COUNCIL) - Trusted circle with several responsibilities which include but are not limited to providing (CONSTRUCTIVE) feedback to the (3 Kings), Enforcing guild rules, interacting with guild members and providing guidance, and voting on any items brought to them by the (3 Kings) when decisions have to be made that pertain to the entire guild. These members should have the potential to replace a member of the (3 Kings) if needed.
         - (ELDER) - Trusted members that take on special tasks or responsibilities and show potential to become a member of the King Council in the future:
         - CHAMPION - Proven Members that are a part of the core raid group. (This does not mean you can't raid if you are not a champion)
@@ -831,7 +831,7 @@
         ```
         Welcome to <Fallen>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         We are proud to have you joining our ranks...This guild is made up of likeminded individuals who specialize in exploration, level grinding, dungeon crawling, crafting, gear camping, raiding, and most of all having a good time. We are not casual, we are not elitists, we are both at the same time or neither at all. This guild is a mixture and that's how we like it!
 
@@ -850,11 +850,11 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         RULES:
         GENERAL:
-        - Conduct yourself in a respectful manner. 
+        - Conduct yourself in a respectful manner.
         - Feel free to share your thoughts and to disagree but be respectful and keep our house stress free.
         - Don't be divisive. Any differences we have as people must be left at the door. In this house we are all < Fallen> and that is all that matters.
 
@@ -879,7 +879,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         NORMAL GROUP/MULTI GROUP SESSIONS
         - OVERVIEW: A normal group or multi-group session is a more spontaneous and less formalized gathering of players. These sessions can involve friends, acquaintances, or random players who come together to achieve a common goal.
@@ -900,7 +900,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES:
         - LOOT SYSTEM OVERVIEW
@@ -929,7 +929,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES (Continued)
         - HANDLING OF LOOT DISPUTES:
@@ -950,7 +950,7 @@
         ```
         <No Title Entered>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         GUILD MEMBER PROMOTION PROCESS: (SQUIRE to KNIGHT)
         - RECRUITMENT AND SPONSORSHIP
@@ -974,7 +974,7 @@
         ```
         GUILD ROLES:
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         Guild Roles and what they mean to < Fallen >:
         - (3 KING) - Guild Masters are all responsible for overseeing guild functions and activities, Maintaining the Guild Bank/ Roster/ and Discord and enforcing guild rules as they pertain to member representation of the guild, loot distribution during guild events, rank promotions and guild removals, and any other decisions that have to be made pertaining to the guild.
@@ -995,11 +995,11 @@
         ```
         Welcome to <Fallen>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         Welcome to the guild. Our community is built around dedicated players who thrive on structured progression, focused raiding, efficient dungeon runs, gear optimization, and strategic gameplay. We value preparation, teamwork, and consistency. While we are not strictly hardcore, we maintain a disciplined approach to improvement and performance. This balanced structure is our strength and the foundation of our continued success.
 
-        As you step into our domain, be advised — this is an 18+ environment. While we aim to keep our focus on gameplay and avoid unnecessary distractions, we are all adults and approach conversations with that understanding. Expect unfiltered discussions, zero tolerance for drama, and respectful handling of disagreements. Everyone is entitled to their opinions, and mutual respect is expected at all times. 
+        As you step into our domain, be advised — this is an 18+ environment. While we aim to keep our focus on gameplay and avoid unnecessary distractions, we are all adults and approach conversations with that understanding. Expect unfiltered discussions, zero tolerance for drama, and respectful handling of disagreements. Everyone is entitled to their opinions, and mutual respect is expected at all times.
 
         During Early Access, our primary objective is to establish a strong, reliable core team. We aim to recruit committed members, develop cohesion, and build a foundation that will carry us into launch and beyond. Our focus will be on mastering available zones, documenting loot tables and NPC mechanics, refining crafting systems, and optimizing group performance. Every step we take during this phase is designed to prepare us for high-end content, organized raiding, and long-term progression as a unified guild.
 
@@ -1009,11 +1009,11 @@
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 4. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         RULES:
         GENERAL:
-        - Conduct yourself in a respectful manner. 
+        - Conduct yourself in a respectful manner.
         - Feel free to share your thoughts and to disagree but be respectful and keep our house stress free.
         - Don't be divisive. Any differences we have as people must be left at the door. In this house we are all < Fallen> and that is all that matters.
 
@@ -1034,7 +1034,7 @@
         3. GUILD BANK: Some loot may be contributed to a guild bank, a communal repository of resources that can be used for future guild activities or distributed as needed.
         ```
 5. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         NORMAL GROUP/MULTI GROUP SESSIONS
         - OVERVIEW: A normal group or multi-group session is a more spontaneous and less formalized gathering of players. These sessions can involve friends, acquaintances, or random players who come together to achieve a common goal.
@@ -1051,7 +1051,7 @@
         3. LESS REGULATIONS: There’s typically less regulation and oversight compared to guild events, which can sometimes lead to disputes or uneven distribution.
         ```
 6. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES:
         - LOOT SYSTEM OVERVIEW
@@ -1076,7 +1076,7 @@
         1. MAINS OVER ALTS: Main characters (mains) have priority over alternate characters (alts). Alts can roll Need only if no mains roll Need for the item.
         ```
 7. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         LOOT DISTRIBUTION AND RULES (Continued)
         - HANDLING OF LOOT DISPUTES:
@@ -1093,7 +1093,7 @@
         2. COMMUNICATION IS KEY: Clear communication and adherence to these rules will help prevent misunderstandings and ensure everyone has a fair chance at loot.
         ```
 8. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         GUILD MEMBER PROMOTION PROCESS: (SQUIRE to KNIGHT)
         - RECRUITMENT AND SPONSORSHIP
@@ -1117,7 +1117,7 @@
         ```
         GUILD ROLES:
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         Guild Roles and what they mean to < Fallen >:
         - (3 KING) - Guild Masters are all responsible for overseeing guild functions and activities, Maintaining the Guild Bank/ Roster/ and Discord and enforcing guild rules as they pertain to member representation of the guild, loot distribution during guild events, rank promotions and guild removals, and any other decisions that have to be made pertaining to the guild.
@@ -1132,7 +1132,7 @@
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 12. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ## Fallen Council Roles & Responsibilities
         ### Amonoa | Recruitment • DKP & Loot • New Member Support • Social/Community Events
@@ -1175,11 +1175,11 @@
         ```
         Welcome to <Fallen>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         Welcome to the guild. Our community is built around dedicated players who thrive on structured progression, focused raiding, efficient dungeon runs, gear optimization, and strategic gameplay. We value preparation, teamwork, and consistency. While we are not strictly hardcore, we maintain a disciplined approach to improvement and performance. This balanced structure is our strength and the foundation of our continued success.
 
-        As you step into our domain, be advised — this is an 18+ environment. While we aim to keep our focus on gameplay and avoid unnecessary distractions, we are all adults and approach conversations with that understanding. Expect unfiltered discussions, zero tolerance for drama, and respectful handling of disagreements. Everyone is entitled to their opinions, and mutual respect is expected at all times. 
+        As you step into our domain, be advised — this is an 18+ environment. While we aim to keep our focus on gameplay and avoid unnecessary distractions, we are all adults and approach conversations with that understanding. Expect unfiltered discussions, zero tolerance for drama, and respectful handling of disagreements. Everyone is entitled to their opinions, and mutual respect is expected at all times.
 
         During Early Access, our primary objective is to establish a strong, reliable core team. We aim to recruit committed members, develop cohesion, and build a foundation that will carry us into launch and beyond. Our focus will be on mastering available zones, documenting loot tables and NPC mechanics, refining crafting systems, and optimizing group performance. Every step we take during this phase is designed to prepare us for high-end content, organized raiding, and long-term progression as a unified guild.
 
@@ -1189,11 +1189,11 @@
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 4. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         # RULES:
         ## GENERAL:
-        * Conduct yourself in a respectful manner. 
+        * Conduct yourself in a respectful manner.
         * Feel free to share your thoughts and to disagree but be respectful and keep our house stress free.
         * Don't be divisive. Any differences we have as people must be left at the door. In this house we are all <Fallen> and that is all that matters.
         ## GUILD EVENT:
@@ -1212,7 +1212,7 @@
          * **GUILD BANK**: Some loot may be contributed to a guild bank, a communal repository of resources that can be used for future guild activities or distributed as needed.
         ```
 5. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### NORMAL GROUP/MULTI GROUP SESSIONS
         * **OVERVIEW**: A normal group or multi-group session is a more spontaneous and less formalized gathering of players. These sessions can involve friends, acquaintances, or random players who come together to achieve a common goal.
@@ -1229,7 +1229,7 @@
            * **LESS REGULATIONS**: There’s typically less regulation and oversight compared to guild events, which can sometimes lead to disputes or uneven distribution.
         ```
 6. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### LOOT DISTRIBUTION AND RULES
         * **LOOT SYSTEM OVERVIEW**:
@@ -1253,7 +1253,7 @@
         * **MAINS OVER ALTS**: Main characters (mains) have priority over alternate characters (alts). Alts can roll Need only if no mains roll Need for the item.
         ```
 7. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### LOOT DISTRIBUTION AND RULES (Continued)
         * **HANDLING OF LOOT DISPUTES**:
@@ -1267,7 +1267,7 @@
         * **COMMUNICATION IS KEY**: Clear communication and adherence to these rules will help prevent misunderstandings and ensure everyone has a fair chance at loot.
         ```
 8. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### GUILD MEMBER PROMOTION PROCESS (SQUIRE to KNIGHT):
         * **RECRUITMENT AND SPONSORSHIP**:
@@ -1288,7 +1288,7 @@
            * Sponsors should witness their Squire attend at least 1 guild event:  and determine if they were able to maintain comms discipline during the event, determine if they were able to follow instructions, and witness their level of participation during the event.
         ```
 9. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### GUILD MEMBER PROMOTION PROCESS (SQUIRE to KNIGHT): (Continued)
         * **PROMOTION (To full membership AKA" KNIGHT)**:
@@ -1299,7 +1299,7 @@
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 11.   Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ## Guild Roles:
         ### Guild Roles and what they mean to <Fallen>:
@@ -1315,7 +1315,7 @@
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 13.   Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         # Fallen Council Roles & Responsibilities
         ## Amonoa | Recruitment • DKP & Loot • New Member Support • Social/Community Events
@@ -1358,11 +1358,11 @@
         ```
         Welcome to <Fallen>
         ```
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         Welcome to the guild. Our community is built around dedicated players who thrive on structured progression, focused raiding, efficient dungeon runs, gear optimization, and strategic gameplay. We value preparation, teamwork, and consistency. While we are not strictly hardcore, we maintain a disciplined approach to improvement and performance. This balanced structure is our strength and the foundation of our continued success.
 
-        As you step into our domain, be advised — this is an 18+ environment. While we aim to keep our focus on gameplay and avoid unnecessary distractions, we are all adults and approach conversations with that understanding. Expect unfiltered discussions, zero tolerance for drama, and respectful handling of disagreements. Everyone is entitled to their opinions, and mutual respect is expected at all times. 
+        As you step into our domain, be advised — this is an 18+ environment. While we aim to keep our focus on gameplay and avoid unnecessary distractions, we are all adults and approach conversations with that understanding. Expect unfiltered discussions, zero tolerance for drama, and respectful handling of disagreements. Everyone is entitled to their opinions, and mutual respect is expected at all times.
 
         During Early Access, our primary objective is to establish a strong, reliable core team. We aim to recruit committed members, develop cohesion, and build a foundation that will carry us into launch and beyond. Our focus will be on mastering available zones, documenting loot tables and NPC mechanics, refining crafting systems, and optimizing group performance. Every step we take during this phase is designed to prepare us for high-end content, organized raiding, and long-term progression as a unified guild.
 
@@ -1372,11 +1372,11 @@
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 4. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         # RULES:
         ## GENERAL:
-        * Conduct yourself in a respectful manner. 
+        * Conduct yourself in a respectful manner.
         * Feel free to share your thoughts and to disagree but be respectful and keep our house stress free.
         * Don't be divisive. Any differences we have as people must be left at the door. In this house we are all <Fallen> and that is all that matters.
         ## GUILD EVENT:
@@ -1395,7 +1395,7 @@
          * **GUILD BANK**: Some loot may be contributed to a guild bank, a communal repository of resources that can be used for future guild activities or distributed as needed.
         ```
 5. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### NORMAL GROUP/MULTI GROUP SESSIONS
         * **OVERVIEW**: A normal group or multi-group session is a more spontaneous and less formalized gathering of players. These sessions can involve friends, acquaintances, or random players who come together to achieve a common goal.
@@ -1412,7 +1412,7 @@
            * **LESS REGULATIONS**: There’s typically less regulation and oversight compared to guild events, which can sometimes lead to disputes or uneven distribution.
         ```
 6. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### LOOT DISTRIBUTION AND RULES
         * **LOOT SYSTEM OVERVIEW**:
@@ -1436,7 +1436,7 @@
         * **MAINS OVER ALTS**: Main characters (mains) have priority over alternate characters (alts). Alts can roll Need only if no mains roll Need for the item.
         ```
 7. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### LOOT DISTRIBUTION AND RULES (Continued)
         * **HANDLING OF LOOT DISPUTES**:
@@ -1450,7 +1450,7 @@
         * **COMMUNICATION IS KEY**: Clear communication and adherence to these rules will help prevent misunderstandings and ensure everyone has a fair chance at loot.
         ```
 8. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### GUILD MEMBER PROMOTION PROCESS (SQUIRE to KNIGHT):
         * **RECRUITMENT AND SPONSORSHIP**:
@@ -1471,7 +1471,7 @@
            * Sponsors should witness their Squire attend at least 1 guild event:  and determine if they were able to maintain comms discipline during the event, determine if they were able to follow instructions, and witness their level of participation during the event.
         ```
 9. Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ### GUILD MEMBER PROMOTION PROCESS (SQUIRE to KNIGHT): (Continued)
         * **PROMOTION (To full membership AKA" KNIGHT)**:
@@ -1482,7 +1482,7 @@
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 11.   Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         ## Guild Roles:
         ### Guild Roles and what they mean to <Fallen>:
@@ -1499,7 +1499,7 @@
     * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 13.   Mods Embed
-    * "Write your mesage here..." (Body): 
+    * "Write your mesage here..." (Body):
         ```
         # Fallen Council Roles & Responsibilities
         ## Amonoa | Recruitment • DKP & Loot • New Member Support • Social/Community Events

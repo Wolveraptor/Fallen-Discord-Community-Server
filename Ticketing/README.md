@@ -6,7 +6,7 @@
 ## Fallen | About Ticketing
 * This README.md serves as documentation and changelog for the `MEE6` plug-in `Ticketing` for the `Fallen` Discord community server.
 
-![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
+![Fallen Discord Community Server](https://forgejo.cybersanctuary.xyz/ssimon/Fallen-Discord-Community-Server/raw/branch/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
@@ -52,7 +52,7 @@
   * Ticket Manager Roles: `King Council` and `Crafter`
   * Panel Message:
     ```
-    Looking for Crafted stuff? 
+    Looking for Crafted stuff?
     Please click the button below and create a ticket to request something to be crafted!!
 
     An appropriate crafter will claim the ticked and work with you to get the requested item(s) crafted!
