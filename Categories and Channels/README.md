@@ -6,7 +6,7 @@
 ## Fallen | About Categories and Channels
 * This README.md serves as documentation and changelog for the `Categories and Channels` for the `Fallen` Discord community server.
 
-![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
+![Fallen Discord Community Server](https://forgejo.cybersanctuary.xyz/ssimon/Fallen-Discord-Community-Server/raw/branch/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
@@ -2388,9 +2388,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -2593,9 +2593,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -2805,9 +2805,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -3022,9 +3022,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -3247,9 +3247,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -3474,9 +3474,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -3701,9 +3701,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -3928,9 +3928,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -4161,9 +4161,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -4434,9 +4434,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl
@@ -4676,9 +4676,9 @@
                 * Name: <Character Name>
                 * Class: <Character Class
                 * Level: <Character Level>
-            
+
             -----
-            
+
             Example:
             * Main
                 * Name: Syzemyozdl

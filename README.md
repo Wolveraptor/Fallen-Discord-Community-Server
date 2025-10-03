@@ -4,7 +4,7 @@
 ## Fallen | About this Repository
 * This repository is used for storing information, configurations, and changelogs for the `Fallen` Discord community server.
 
-![alttext](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png)
+![Fallen Discord Community Server](https://forgejo.cybersanctuary.xyz/ssimon/Fallen-Discord-Community-Server/raw/branch/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 ### Fallen | Table of Contents
 * [Fallen Discord Community Server - README.md](/README.md)

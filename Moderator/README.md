@@ -6,7 +6,7 @@
 ## Fallen | About Moderator
 * This README.md serves as documentation and changelog for the `MEE6` plug-in `Moderator` for the `Fallen` Discord community server.
 
-![alttext](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png)
+![Fallen Discord Community Server](https://forgejo.cybersanctuary.xyz/ssimon/Fallen-Discord-Community-Server/raw/branch/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
@@ -38,7 +38,7 @@
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
             * Additiona settings
                 * Bad words list (exact match): `N/A`
@@ -47,25 +47,25 @@
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Server invites: `Disabled`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * External links: `Disabled`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Excessive caps (70% > CAPS): `Disabled`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Excessive emojis: `Disabled`
             * Permissions
