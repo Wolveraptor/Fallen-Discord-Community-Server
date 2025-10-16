@@ -6,7 +6,7 @@
 ## Fallen | About Community Roles
 * This README.md serves as documentation and changelog for the `Community Roles` for the `Fallen` Discord community server.
 
-![Fallen Discord Community Server](https://forgejo.cybersanctuary.xyz/ssimon/Fallen-Discord-Community-Server/raw/branch/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
+![Fallen Discord Community Server](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 * Excel spreadsheet is converted to Markdown via the [Table to Markdown](https://tabletomarkdown.com/) online tool.
 
