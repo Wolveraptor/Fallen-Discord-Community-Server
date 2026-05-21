@@ -6,33 +6,33 @@
 ## Fallen | About Categories and Channels
 * This README.md serves as documentation and changelog for the `Community Rules` for the `Fallen` Discord community server.
 
-![Fallen Discord Community Server](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
+![Fallen Discord Community Server](../Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
-* [Fallen Discord Community Server - README.md](/README.md)
-* [Fallen Discord Community Server - LICENSE](/LICENSE)
-* [Automations - README.md](/Automations/README.md)
-* [Bad Words - README.md](/Bad%20Words/README.md)
-* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
-* [Community Roles - README.md](/Community%20Roles/README.md)
-* [Community Rules - README.md](/Community%20Rules/README.md)
-* [Custom Commands - README.md](/Custom%20Commands/README.md)
-* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
-* [Events - README.md](/Events/README.md)
-* [Help - README.md](/Help/README.md)
-* [Moderator - README.md](/Moderator/README.md)
-* [Images](/Images/)
-* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
-* [Ticketing - README.md](/Ticketing/README.md)
-* [Welcome & Goodbye - README.md](/Welcome%20&%20Goodbye/README.md)
-* [Welcome Channel - README.md](/Welcome%20Channel/README.md)
+* [Fallen Discord Community Server - README.md](../README.md)
+* [Fallen Discord Community Server - LICENSE](../LICENSE)
+* [Automations - README.md](../Automations/README.md)
+* [Bad Words - README.md](../Bad%20Words/README.md)
+* [Categories and Channels - README.md](../Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](../Community%20Roles/README.md)
+* [Community Rules - README.md](../Community%20Rules/README.md)
+* [Custom Commands - README.md](../Custom%20Commands/README.md)
+* [Embedded Messages - README.md](../Embedded%20Messages/README.md)
+* [Events - README.md](../Events/README.md)
+* [Help - README.md](../Help/README.md)
+* [Moderator - README.md](../Moderator/README.md)
+* [Images](../Images/)
+* [Reaction Roles - README.md](../Reaction%20Roles/README.md)
+* [Ticketing - README.md](../Ticketing/README.md)
+* [Welcome & Goodbye - README.md](../Welcome%20&%20Goodbye/README.md)
+* [Welcome Channel - README.md](../Welcome%20Channel/README.md)
 
 <!-- omit from toc -->
 ### Fallen | Community Rules | Table of Contents
-* [Fallen | Community Rules | 04/22/25 - 8:55 PM EST](#fallen--community-rules--042225---855-pm-est)
-* [Fallen | Community Rules | New Player Onboarding PDFs](#fallen--community-rules--new-player-onboarding-pdfs)
-* [Fallen | Community Rules | New Player Onboarding - Fallen Guild - 051525](#fallen--community-rules--new-player-onboarding---fallen-guild---051525)
+* [Fallen | Community Rules | 04/22/25 - 8:55 PM EST](#fallen-community-rules-04-22-25-8-55-pm-est)
+* [Fallen | Community Rules | New Player Onboarding PDFs](#fallen-community-rules-new-player-onboarding-pdfs)
+* [Fallen | Community Rules | New Player Onboarding - Fallen Guild - 051525](#fallen-community-rules-new-player-onboarding-fallen-guild-051525)
 
 #### Fallen | Community Rules | 04/22/25 - 8:55 PM EST
 * The below was taken from the `Welcome Channel` rules.
@@ -122,8 +122,8 @@
         * (GUEST) - Friends of `<Fallen>`.
 
 #### Fallen | Community Rules | New Player Onboarding PDFs
-* [New Player Onboarding - The Fallen Guild - 043025.pdf](/Community%20Rules/New%20Player%20Onboarding%20-%20The%20Fallen%20Guild%20-%20043025.pdf)
-* [New Player Onboarding - The Fallen Guild - 051325.pdf](/Community%20Rules/New%20Player%20Onboarding%20-%20The%20Fallen%20Guild%20-%20051325.pdf)
+* [New Player Onboarding - The Fallen Guild - 043025.pdf](../Community%20Rules/New%20Player%20Onboarding%20-%20The%20Fallen%20Guild%20-%20043025.pdf)
+* [New Player Onboarding - The Fallen Guild - 051325.pdf](../Community%20Rules/New%20Player%20Onboarding%20-%20The%20Fallen%20Guild%20-%20051325.pdf)
 
 #### Fallen | Community Rules | New Player Onboarding - Fallen Guild - 051525
 🏰 **NEW PLAYER ONBOARDING** 🏰

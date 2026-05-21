@@ -6,105 +6,105 @@
 ## Fallen | About Welcome Channel
 * This README.md serves as documentation and changelog for the `MEE6` plug-in `Welcome Channel` for the `Fallen` Discord community server.
 
-![Fallen Discord Community Server](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
+![Fallen Discord Community Server](../Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
-* [Fallen Discord Community Server - README.md](/README.md)
-* [Fallen Discord Community Server - LICENSE](/LICENSE)
-* [Automations - README.md](/Automations/README.md)
-* [Bad Words - README.md](/Bad%20Words/README.md)
-* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
-* [Community Roles - README.md](/Community%20Roles/README.md)
-* [Community Rules - README.md](/Community%20Rules/README.md)
-* [Custom Commands - README.md](/Custom%20Commands/README.md)
-* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
-* [Events - README.md](/Events/README.md)
-* [Help - README.md](/Help/README.md)
-* [Moderator - README.md](/Moderator/README.md)
-* [Images](/Images/)
-* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
-* [Ticketing - README.md](/Ticketing/README.md)
-* [Welcome & Goodbye - README.md](/Welcome%20&%20Goodbye/README.md)
-* [Welcome Channel - README.md](/Welcome%20Channel/README.md)
+* [Fallen Discord Community Server - README.md](../README.md)
+* [Fallen Discord Community Server - LICENSE](../LICENSE)
+* [Automations - README.md](../Automations/README.md)
+* [Bad Words - README.md](../Bad%20Words/README.md)
+* [Categories and Channels - README.md](../Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](../Community%20Roles/README.md)
+* [Community Rules - README.md](../Community%20Rules/README.md)
+* [Custom Commands - README.md](../Custom%20Commands/README.md)
+* [Embedded Messages - README.md](../Embedded%20Messages/README.md)
+* [Events - README.md](../Events/README.md)
+* [Help - README.md](../Help/README.md)
+* [Moderator - README.md](../Moderator/README.md)
+* [Images](../Images/)
+* [Reaction Roles - README.md](../Reaction%20Roles/README.md)
+* [Ticketing - README.md](../Ticketing/README.md)
+* [Welcome & Goodbye - README.md](../Welcome%20&%20Goodbye/README.md)
+* [Welcome Channel - README.md](../Welcome%20Channel/README.md)
 
 <!-- omit from toc -->
 ### Fallen | Welcome Channel | Table of Contents
-* [Fallen | Welcome Channel | Items to Note](#fallen--welcome-channel--items-to-note)
-* [Fallen | Welcome Channel | 04/22/25 - 8:23 PM EST](#fallen--welcome-channel--042225---823-pm-est)
-* [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen--welcome-channel--042225---850-pm-est)
-* [Fallen | Welcome Channel | 04/22/25 - 9:33 PM EST](#fallen--welcome-channel--042225---933-pm-est)
-* [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen--welcome-channel--042225---850-pm-est-1)
-* [Fallen | Welcome Channel | 04/28/25 - 2:02 PM EST](#fallen--welcome-channel--042825---202-pm-est)
-* [Fallen | Welcome Channel | 04/30/25 - 9:54 AM EST](#fallen--welcome-channel--043025---954-am-est)
-* [Fallen | Welcome Channel | 04/30/25 - 1:54 PM EST](#fallen--welcome-channel--043025---154-pm-est)
-* [Fallen | Welcome Channel | 05/13/25 - 8:43 PM EST](#fallen--welcome-channel--051325---843-pm-est)
+* [Fallen | Welcome Channel | Items to Note](#fallen-welcome-channel-items-to-note)
+* [Fallen | Welcome Channel | 04/22/25 - 8:23 PM EST](#fallen-welcome-channel-04-22-25-8-23-pm-est)
+* [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen-welcome-channel-04-22-25-8-50-pm-est)
+* [Fallen | Welcome Channel | 04/22/25 - 9:33 PM EST](#fallen-welcome-channel-04-22-25-9-33-pm-est)
+* [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen-welcome-channel-04-22-25-8-50-pm-est-1)
+* [Fallen | Welcome Channel | 04/28/25 - 2:02 PM EST](#fallen-welcome-channel-04-28-25-2-02-pm-est)
+* [Fallen | Welcome Channel | 04/30/25 - 9:54 AM EST](#fallen-welcome-channel-04-30-25-9-54-am-est)
+* [Fallen | Welcome Channel | 04/30/25 - 1:54 PM EST](#fallen-welcome-channel-04-30-25-1-54-pm-est)
+* [Fallen | Welcome Channel | 05/13/25 - 8:43 PM EST](#fallen-welcome-channel-05-13-25-8-43-pm-est)
 
 #### Fallen | Welcome Channel | Items to Note
 * Icons:
     * Fallen - Miscellaneous - 1 - 544x454
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%201%20-%20544x454.png```
 
-        ![alttext](/Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%201%20-%20544x454.png)
+        ![alttext](../Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%201%20-%20544x454.png)
 
     * Fallen - Miscellaneous - 2 - 1024x1024
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%202%20-%201024x1024.png```
 
-        ![alttext](/Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%202%20-%201024x1024.png)
+        ![alttext](../Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%202%20-%201024x1024.png)
 
     * Fallen - Miscellaneous - 3 - 1024x1024
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%203%20-%201024x1024.png```
 
-        ![alttext](/Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%203%20-%201024x1024.png)
+        ![alttext](../Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%203%20-%201024x1024.png)
 
     * Fallen - Miscellaneous - 4 - 1024x1024
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%204%20-%201024x1024.png```
 
-        ![alttext](/Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%204%20-%201024x1024.png)
+        ![alttext](../Images/Miscellaneous/Fallen%20-%20Miscellaneous%20-%204%20-%201024x1024.png)
 
     * Fallen - Server Banner Background - 230x134
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Banner%20Backgrounds/Fallen%20-%20Server%20Banner%20Backgrounds%20-%20230x134.png```
 
-        ![alttext](/Images/Server%20Banner%20Backgrounds/Fallen%20-%20Server%20Banner%20Backgrounds%20-%20230x134.png)
+        ![alttext](../Images/Server%20Banner%20Backgrounds/Fallen%20-%20Server%20Banner%20Backgrounds%20-%20230x134.png)
 
     * Fallen - Server Banner Background - 1023x575
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Banner%20Backgrounds/Fallen%20-%20Server%20Banner%20Backgrounds%20-%201023x575.png```
 
-        ![alttext](/Images/Server%20Banner%20Backgrounds/Fallen%20-%20Server%20Banner%20Backgrounds%20-%201023x575.png)
+        ![alttext](../Images/Server%20Banner%20Backgrounds/Fallen%20-%20Server%20Banner%20Backgrounds%20-%201023x575.png)
 
     * Fallen - Server Icon - 949x969
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 
-        ![Fallen Discord Community Server](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
+        ![Fallen Discord Community Server](../Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
     * Fallen - Server Invite Background - 545x390
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
 
-        ![alttext](/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png)
+        ![alttext](../Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png)
 
     * Fallen - Welcome Channel - 1 - 545x545
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%201%20-%20545x545.png```
 
-        ![alttext](/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%201%20-%20545x545.png)
+        ![alttext](../Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%201%20-%20545x545.png)
 
     * Fallen - Welcome Channel - 2 - 545x545
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png```
 
-        ![alttext](/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
+        ![alttext](../Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
 
     * Fallen - Welcome Channel - 3 - 545x545
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 
-        ![alttext](/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
+        ![alttext](../Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
 
     * MEE6 - 128x128
         * ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png```
 
-        ![alttext](/Images/Bots/MEE6%20-%20128x128.png)
+        ![alttext](../Images/Bots/MEE6%20-%20128x128.png)
 
 #### Fallen | Welcome Channel | 04/22/25 - 8:23 PM EST
 1. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
 2. Text Embed
     * "Write your mesage here..." (Title):
@@ -125,7 +125,7 @@
         ~Grizzle~
         ```
 3. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
 4. Text Embed
     * "Write your mesage here..." (Title):
@@ -270,7 +270,7 @@
         - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 9. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 10. Text Embed
     * "Write your mesage here..." (Title):
@@ -291,7 +291,7 @@
 
 #### Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST
 1. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
 2. Text Embed
     * "Write your mesage here..." (Title):
@@ -310,7 +310,7 @@
         For Early Access it is our goal to fill our ranks, get to know our members, familiarize ourselves with zones as they become available, Document loot tables and NPC fights, learn crafting tables, and most of all build our community to last so that we may enter game launch together.
         ```
 3. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
 4. Text Embed
     * "Write your mesage here..." (Title):
@@ -455,7 +455,7 @@
         - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 9. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 10. Text Embed
     * "Write your mesage here..." (Title):
@@ -476,7 +476,7 @@
 
 #### Fallen | Welcome Channel | 04/22/25 - 9:33 PM EST
 1. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
 2. Text Embed
     * "Write your mesage here..." (Title):
@@ -495,7 +495,7 @@
         For Early Access it is our goal to fill our ranks, get to know our members, familiarize ourselves with zones as they become available, Document loot tables and NPC fights, learn crafting tables, and most of all build our community to last so that we may enter game launch together.
         ```
 3. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
 4. Text Embed
     * "Write your mesage here..." (Title):
@@ -619,7 +619,7 @@
         - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 9. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 10. Text Embed
     * "Write your mesage here..." (Title):
@@ -640,7 +640,7 @@
 
 #### Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST
 1. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Invite%20Background%20-%20545x390.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
 2. Text Embed
     * "Write your mesage here..." (Title):
@@ -659,7 +659,7 @@
         For Early Access it is our goal to fill our ranks, get to know our members, familiarize ourselves with zones as they become available, Document loot tables and NPC fights, learn crafting tables, and most of all build our community to last so that we may enter game launch together.
         ```
 3. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Welcome%20Channel%20-%202%20-%20545x545.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Invite%20Backgrounds/Fallen%20-%20Server%20Invite%20Backgrounds%20-%20545x390.png```
 4. Text Embed
     * "Write your mesage here..." (Title):
@@ -804,7 +804,7 @@
         - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 9. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Welcome%20Channel/Fallen%20-%20Welcome%20Channel%20-%203%20-%20545x545.png```
 10. Text Embed
     * "Write your mesage here..." (Title):
@@ -825,7 +825,7 @@
 
 #### Fallen | Welcome Channel | 04/28/25 - 2:02 PM EST
 1. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 2. Text Embed
     * "Write your mesage here..." (Title):
@@ -844,7 +844,7 @@
         For Early Access it is our goal to fill our ranks, get to know our members, familiarize ourselves with zones as they become available, Document loot tables and NPC fights, learn crafting tables, and most of all build our community to last so that we may enter game launch together.
         ```
 3. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 4. Text Embed
     * "Write your mesage here..." (Title):
@@ -968,7 +968,7 @@
         - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 9. Image Embed
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 10. Text Embed
     * "Write your mesage here..." (Title):
@@ -989,7 +989,7 @@
 
 #### Fallen | Welcome Channel | 04/30/25 - 9:54 AM EST
 1. Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 2. Invite Embed
     * "Write your mesage here..." (Title):
@@ -1007,7 +1007,7 @@
         We are not only focused on growing our guild, but also on establishing a strong, respectful presence within the broader game community. We believe in contributing positively, collaborating when appropriate, and maintaining a reputation built on integrity and skill.
         ```
 3. Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 4. Mods Embed
     * "Write your mesage here..." (Body):
@@ -1111,7 +1111,7 @@
         - Timeframe: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 9. Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 10. Invite Embed
     * "Write your mesage here..." (Title):
@@ -1130,7 +1130,7 @@
         - (GUEST) - Friends of <Fallen>.
         ```
 11. Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 12. Mods Embed
     * "Write your mesage here..." (Body):
@@ -1169,7 +1169,7 @@
 
 #### Fallen | Welcome Channel | 04/30/25 - 1:54 PM EST
 1. Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 2. Invite Embed
     * "Write your mesage here..." (Title):
@@ -1187,7 +1187,7 @@
         We are not only focused on growing our guild, but also on establishing a strong, respectful presence within the broader game community. We believe in contributing positively, collaborating when appropriate, and maintaining a reputation built on integrity and skill.
         ```
 3. Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 4. Mods Embed
     * "Write your mesage here..." (Body):
@@ -1297,7 +1297,7 @@
          * **Timeframe**: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 10.   Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 11.   Mods Embed
     * "Write your mesage here..." (Body):
@@ -1313,7 +1313,7 @@
         * **GUEST**: Friends of <Fallen>.
         ```
 12.   Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 13.   Mods Embed
     * "Write your mesage here..." (Body):
@@ -1352,7 +1352,7 @@
 
 #### Fallen | Welcome Channel | 05/13/25 - 8:43 PM EST
 1. Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 2. Invite Embed
     * "Write your mesage here..." (Title):
@@ -1370,7 +1370,7 @@
         We are not only focused on growing our guild, but also on establishing a strong, respectful presence within the broader game community. We believe in contributing positively, collaborating when appropriate, and maintaining a reputation built on integrity and skill.
         ```
 3. Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 4. Mods Embed
     * "Write your mesage here..." (Body):
@@ -1480,7 +1480,7 @@
          * **Timeframe**: There is no set timeframe to promote a squire to full member, requests for promotion are at the discretion of the Sponsor, once a request is made the Sponsor will be heard and a decision will be made by the Kings.
         ```
 10.   Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 11.   Mods Embed
     * "Write your mesage here..." (Body):
@@ -1497,7 +1497,7 @@
         * **GUEST**: Friends of <Fallen>.
         ```
 12.   Custom Banner
-    * Image: ![alttext](/Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
+    * Image: ![alttext](../Images/Fallen%20-%20Server%20Icon%20-%20949x969.png)
     * Image URL: ```https://gitlab.cybersanctuary.xyz/fallen/fallen-discord-community-server/-/raw/main/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png```
 13.   Mods Embed
     * "Write your mesage here..." (Body):
