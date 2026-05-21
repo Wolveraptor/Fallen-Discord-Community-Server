@@ -1,11 +1,14 @@
+<!-- omit from toc -->
 # Fallen | Discord Community Server
 * `Fallen` Discord community server GitLab repository.
 
+<!-- omit from toc -->
 ## Fallen | About this Repository
 * This repository is used for storing information, configurations, and changelogs for the `Fallen` Discord community server.
 
 ![Fallen Discord Community Server](Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
+<!-- omit from toc -->
 ### Fallen | Table of Contents
 * [Fallen Discord Community Server - README.md](README.md)
 * [Fallen Discord Community Server - LICENSE](LICENSE)
