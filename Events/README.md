@@ -6,34 +6,34 @@
 ## Fallen | About Events
 * This README.md serves as documentation and changelog for the `Events` for the `Fallen` Discord community server.
 
-![Fallen Discord Community Server](../Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
+![Fallen Discord Community Server](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
-* [Fallen Discord Community Server - README.md](../README.md)
-* [Fallen Discord Community Server - LICENSE](../LICENSE)
-* [Automations - README.md](../Automations/README.md)
-* [Bad Words - README.md](../Bad%20Words/README.md)
-* [Categories and Channels - README.md](../Categories%20and%20Channels/README.md)
-* [Community Roles - README.md](../Community%20Roles/README.md)
-* [Community Rules - README.md](../Community%20Rules/README.md)
-* [Custom Commands - README.md](../Custom%20Commands/README.md)
-* [Embedded Messages - README.md](../Embedded%20Messages/README.md)
-* [Events - README.md](../Events/README.md)
-* [Help - README.md](../Help/README.md)
-* [Moderator - README.md](../Moderator/README.md)
-* [Images](../Images/)
-* [Reaction Roles - README.md](../Reaction%20Roles/README.md)
-* [Ticketing - README.md](../Ticketing/README.md)
-* [Welcome & Goodbye - README.md](../Welcome%20&%20Goodbye/README.md)
-* [Welcome Channel - README.md](../Welcome%20Channel/README.md)
+* [Fallen Discord Community Server - README.md](/README.md)
+* [Fallen Discord Community Server - LICENSE](/LICENSE)
+* [Automations - README.md](/Automations/README.md)
+* [Bad Words - README.md](/Bad%20Words/README.md)
+* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](/Community%20Roles/README.md)
+* [Community Rules - README.md](/Community%20Rules/README.md)
+* [Custom Commands - README.md](/Custom%20Commands/README.md)
+* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
+* [Events - README.md](/Events/README.md)
+* [Help - README.md](/Help/README.md)
+* [Moderator - README.md](/Moderator/README.md)
+* [Images](/Images/)
+* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
+* [Ticketing - README.md](/Ticketing/README.md)
+* [Welcome & Goodbye - README.md](/Welcome%20&%20Goodbye/README.md)
+* [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
 <!-- omit from toc -->
 ### Fallen | Events | Table of Contents
-* [Fallen | Events | Items to Note](#fallen-events-items-to-note)
-* [Fallen | Events | 05/03/25 - PVE - Wyvern / Named Farming](#fallen-events-05-03-25-pve-wyvern-named-farming)
-* [Fallen | Events | 05/09/25 - PVE - EXP / FARM](#fallen-events-05-09-25-pve-exp-farm)
-* [Fallen | Events | 05/14/25 - PVE - TBD](#fallen-events-05-14-25-pve-tbd)
+* [Fallen | Events | Items to Note](#fallen--events--items-to-note)
+* [Fallen | Events | 05/03/25 - PVE - Wyvern / Named Farming](#fallen--events--050325---pve---wyvern--named-farming)
+* [Fallen | Events | 05/09/25 - PVE - EXP / FARM](#fallen--events--050925---pve---exp--farm)
+* [Fallen | Events | 05/14/25 - PVE - TBD](#fallen--events--051425---pve---tbd)
 
 
 #### Fallen | Events | Items to Note
