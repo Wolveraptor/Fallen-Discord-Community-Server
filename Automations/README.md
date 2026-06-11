@@ -6,36 +6,36 @@
 ## Fallen | About Automations
 * This README.md serves as documentation and changelog for the `MEE6` plug-in `Automations` for the `Fallen` Discord community server.
 
-![Fallen Discord Community Server](../Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
+![Fallen Discord Community Server](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
-* [Fallen Discord Community Server - README.md](../README.md)
-* [Fallen Discord Community Server - LICENSE](../LICENSE)
-* [Automations - README.md](../Automations/README.md)
-* [Bad Words - README.md](../Bad%20Words/README.md)
-* [Categories and Channels - README.md](../Categories%20and%20Channels/README.md)
-* [Community Roles - README.md](../Community%20Roles/README.md)
-* [Community Rules - README.md](../Community%20Rules/README.md)
-* [Custom Commands - README.md](../Custom%20Commands/README.md)
-* [Embedded Messages - README.md](../Embedded%20Messages/README.md)
-* [Events - README.md](../Events/README.md)
-* [Help - README.md](../Help/README.md)
-* [Moderator - README.md](../Moderator/README.md)
-* [Images](../Images/)
-* [Reaction Roles - README.md](../Reaction%20Roles/README.md)
-* [Ticketing - README.md](../Ticketing/README.md)
-* [Welcome & Goodbye - README.md](../Welcome%20&%20Goodbye/README.md)
-* [Welcome Channel - README.md](../Welcome%20Channel/README.md)
+* [Fallen Discord Community Server - README.md](/README.md)
+* [Fallen Discord Community Server - LICENSE](/LICENSE)
+* [Automations - README.md](/Automations/README.md)
+* [Bad Words - README.md](/Bad%20Words/README.md)
+* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](/Community%20Roles/README.md)
+* [Community Rules - README.md](/Community%20Rules/README.md)
+* [Custom Commands - README.md](/Custom%20Commands/README.md)
+* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
+* [Events - README.md](/Events/README.md)
+* [Help - README.md](/Help/README.md)
+* [Moderator - README.md](/Moderator/README.md)
+* [Images](/Images/)
+* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
+* [Ticketing - README.md](/Ticketing/README.md)
+* [Welcome & Goodbye - README.md](/Welcome%20&%20Goodbye/README.md)
+* [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
 <!-- omit from toc -->
 ### Fallen | Automations | Table of Contents
-* [Fallen | Automations | DISABLED - raid-loot-roll "/roll" and "/roll limit:100" Correction - 05/04/25 – 3:11 PM EST](#fallen-automations-disabled-raid-loot-roll-roll-and-roll-limit-100-correction-05-04-25-3-11-pm-est)
-* [Fallen | Automations | raid-loot-roll -  Squire Sends Message - Delete and Inform - 05/14/25 – 10:25 PM EST](#fallen-automations-raid-loot-roll-squire-sends-message-delete-and-inform-05-14-25-10-25-pm-est)
-* [Fallen | Automations | raid-loot-roll -  Squire Sends Image and Message - Delete and Inform - 05/14/25 – 10:25 PM EST](#fallen-automations-raid-loot-roll-squire-sends-image-and-message-delete-and-inform-05-14-25-10-25-pm-est)
-* [Fallen | Automations | raid-loot-roll -  Squire Sends Image - Delete and Inform - 05/14/25 – 10:25 PM EST](#fallen-automations-raid-loot-roll-squire-sends-image-delete-and-inform-05-14-25-10-25-pm-est)
-* [Fallen | Automations | Gains a Role - PVP Guest - 05/25/25 – 9:41 PM EST](#fallen-automations-gains-a-role-pvp-guest-05-25-25-9-41-pm-est)
-* [Fallen | Automations | Gains a Role - PVE Guest - 05/25/25 – 9:41 PM EST](#fallen-automations-gains-a-role-pve-guest-05-25-25-9-41-pm-est)
+* [Fallen | Automations | DISABLED - raid-loot-roll "/roll" and "/roll limit:100" Correction - 05/04/25 – 3:11 PM EST](#fallen--automations--disabled---raid-loot-roll-roll-and-roll-limit100-correction---050425--311-pm-est)
+* [Fallen | Automations | raid-loot-roll -  Squire Sends Message - Delete and Inform - 05/14/25 – 10:25 PM EST](#fallen--automations--raid-loot-roll----squire-sends-message---delete-and-inform---051425--1025-pm-est)
+* [Fallen | Automations | raid-loot-roll -  Squire Sends Image and Message - Delete and Inform - 05/14/25 – 10:25 PM EST](#fallen--automations--raid-loot-roll----squire-sends-image-and-message---delete-and-inform---051425--1025-pm-est)
+* [Fallen | Automations | raid-loot-roll -  Squire Sends Image - Delete and Inform - 05/14/25 – 10:25 PM EST](#fallen--automations--raid-loot-roll----squire-sends-image---delete-and-inform---051425--1025-pm-est)
+* [Fallen | Automations | Gains a Role - PVP Guest - 05/25/25 – 9:41 PM EST](#fallen--automations--gains-a-role---pvp-guest---052525--941-pm-est)
+* [Fallen | Automations | Gains a Role - PVE Guest - 05/25/25 – 9:41 PM EST](#fallen--automations--gains-a-role---pve-guest---052525--941-pm-est)
 
 #### Fallen | Automations | DISABLED - raid-loot-roll "/roll" and "/roll limit:100" Correction - 05/04/25 – 3:11 PM EST
 * When Someone:

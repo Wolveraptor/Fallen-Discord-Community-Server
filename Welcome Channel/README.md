@@ -6,39 +6,39 @@
 ## Fallen | About Welcome Channel
 * This README.md serves as documentation and changelog for the `MEE6` plug-in `Welcome Channel` for the `Fallen` Discord community server.
 
-![Fallen Discord Community Server](../Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
+![Fallen Discord Community Server](/Images/Server%20Icons/Fallen%20-%20Server%20Icons%20-%20949x969.png "Fallen Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Fallen | Table of Contents
-* [Fallen Discord Community Server - README.md](../README.md)
-* [Fallen Discord Community Server - LICENSE](../LICENSE)
-* [Automations - README.md](../Automations/README.md)
-* [Bad Words - README.md](../Bad%20Words/README.md)
-* [Categories and Channels - README.md](../Categories%20and%20Channels/README.md)
-* [Community Roles - README.md](../Community%20Roles/README.md)
-* [Community Rules - README.md](../Community%20Rules/README.md)
-* [Custom Commands - README.md](../Custom%20Commands/README.md)
-* [Embedded Messages - README.md](../Embedded%20Messages/README.md)
-* [Events - README.md](../Events/README.md)
-* [Help - README.md](../Help/README.md)
-* [Moderator - README.md](../Moderator/README.md)
-* [Images](../Images/)
-* [Reaction Roles - README.md](../Reaction%20Roles/README.md)
-* [Ticketing - README.md](../Ticketing/README.md)
-* [Welcome & Goodbye - README.md](../Welcome%20&%20Goodbye/README.md)
-* [Welcome Channel - README.md](../Welcome%20Channel/README.md)
+* [Fallen Discord Community Server - README.md](/README.md)
+* [Fallen Discord Community Server - LICENSE](/LICENSE)
+* [Automations - README.md](/Automations/README.md)
+* [Bad Words - README.md](/Bad%20Words/README.md)
+* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](/Community%20Roles/README.md)
+* [Community Rules - README.md](/Community%20Rules/README.md)
+* [Custom Commands - README.md](/Custom%20Commands/README.md)
+* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
+* [Events - README.md](/Events/README.md)
+* [Help - README.md](/Help/README.md)
+* [Moderator - README.md](/Moderator/README.md)
+* [Images](/Images/)
+* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
+* [Ticketing - README.md](/Ticketing/README.md)
+* [Welcome & Goodbye - README.md](/Welcome%20&%20Goodbye/README.md)
+* [Welcome Channel - README.md](/Welcome%20Channel/README.md)
 
 <!-- omit from toc -->
 ### Fallen | Welcome Channel | Table of Contents
-* [Fallen | Welcome Channel | Items to Note](#fallen-welcome-channel-items-to-note)
-* [Fallen | Welcome Channel | 04/22/25 - 8:23 PM EST](#fallen-welcome-channel-04-22-25-8-23-pm-est)
-* [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen-welcome-channel-04-22-25-8-50-pm-est)
-* [Fallen | Welcome Channel | 04/22/25 - 9:33 PM EST](#fallen-welcome-channel-04-22-25-9-33-pm-est)
-* [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen-welcome-channel-04-22-25-8-50-pm-est-1)
-* [Fallen | Welcome Channel | 04/28/25 - 2:02 PM EST](#fallen-welcome-channel-04-28-25-2-02-pm-est)
-* [Fallen | Welcome Channel | 04/30/25 - 9:54 AM EST](#fallen-welcome-channel-04-30-25-9-54-am-est)
-* [Fallen | Welcome Channel | 04/30/25 - 1:54 PM EST](#fallen-welcome-channel-04-30-25-1-54-pm-est)
-* [Fallen | Welcome Channel | 05/13/25 - 8:43 PM EST](#fallen-welcome-channel-05-13-25-8-43-pm-est)
+* [Fallen | Welcome Channel | Items to Note](#fallen--welcome-channel--items-to-note)
+* [Fallen | Welcome Channel | 04/22/25 - 8:23 PM EST](#fallen--welcome-channel--042225---823-pm-est)
+* [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen--welcome-channel--042225---850-pm-est)
+* [Fallen | Welcome Channel | 04/22/25 - 9:33 PM EST](#fallen--welcome-channel--042225---933-pm-est)
+* [Fallen | Welcome Channel | 04/22/25 - 8:50 PM EST](#fallen--welcome-channel--042225---850-pm-est-1)
+* [Fallen | Welcome Channel | 04/28/25 - 2:02 PM EST](#fallen--welcome-channel--042825---202-pm-est)
+* [Fallen | Welcome Channel | 04/30/25 - 9:54 AM EST](#fallen--welcome-channel--043025---954-am-est)
+* [Fallen | Welcome Channel | 04/30/25 - 1:54 PM EST](#fallen--welcome-channel--043025---154-pm-est)
+* [Fallen | Welcome Channel | 05/13/25 - 8:43 PM EST](#fallen--welcome-channel--051325---843-pm-est)
 
 #### Fallen | Welcome Channel | Items to Note
 * Icons:
