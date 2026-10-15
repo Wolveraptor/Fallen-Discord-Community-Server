@@ -1,4 +1,4 @@
-# Fallen Discord Community Server
+# Homelab
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.cybersanctuary.xyz/ssimon/fallen-discord-community-server.git
+git remote add origin https://gitlab.cybersanctuary.xyz/ssimon/homelab.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-* [Set up project integrations](https://gitlab.cybersanctuary.xyz/ssimon/fallen-discord-community-server/-/settings/integrations)
+* [Set up project integrations](https://gitlab.cybersanctuary.xyz/ssimon/homelab/-/settings/integrations)
 
 ## Collaborate with your team
 
