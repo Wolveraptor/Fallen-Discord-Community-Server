@@ -1,6 +1,6 @@
 <!-- omit from toc -->
 # Fallen | Discord Community Server
-* `Fallen` Discord community server GitLab repository.
+* `Fallen` Discord community server Forgejo repository.
 
 <!-- omit from toc -->
 ## Fallen | About this Repository
